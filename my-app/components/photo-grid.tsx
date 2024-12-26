@@ -15,55 +15,55 @@ const tiles: TileData[] = [
     id: 1, 
     title: 'Hobby', 
     imageUrl: '/hobbyimage.jpeg', 
-    poem: 'Poem 1\n\nReplace this with your actual poem text.' 
+    poem: 'Poem about writing\n\nWords flow like a gentle stream,\nThoughts captured on paper gleam.\nIn quiet moments, pen in hand,\nCreating worlds at my command.' 
   },
   { 
     id: 2, 
     title: 'Flower', 
     imageUrl: '/flowerimage.jpeg', 
-    poem: 'Poem 2\n\nReplace this with your actual poem text.' 
+    poem: 'Ode to Tulips\n\nOrange petals, soft and bright,\nSpring\'s messenger, a lovely sight.\nGraceful stems reach for the sky,\nNature\'s beauty, can\'t deny.' 
   },
   { 
     id: 3, 
     title: 'Color', 
     imageUrl: '/colorimage.jpeg', 
-    poem: 'Poem 3\n\nReplace this with your actual poem text.' 
+    poem: 'Green Serenity\n\nVibrant green, like fresh spring leaves,\nCalming hue that never deceives.\nMatcha\'s essence, rich and pure,\nA color that will always endure.' 
   },
   { 
     id: 4, 
     title: 'Season', 
-    imageUrl: '/seasonimage.jpeg', // You'll need to provide this image
-    poem: 'Poem 4\n\nReplace this with your actual poem text.' 
+    imageUrl: '/seasonimage.jpeg', 
+    poem: 'Autumn\'s Embrace\n\nGolden leaves dance in the breeze,\nCrisp air whispers through the trees.\nWarm colors paint the fading light,\nAutumn\'s beauty, a wondrous sight.' 
   },
   { 
     id: 5, 
     title: 'Character', 
     imageUrl: '/characterimage.jpeg', 
-    poem: 'Poem 5\n\nReplace this with your actual poem text.' 
+    poem: 'Ode to Snoopy\n\nBeagle with a heart of gold,\nImagination uncontrolled.\nOn his doghouse, dreams take flight,\nSnoopy brings pure delight.' 
   },
   { 
     id: 6, 
     title: 'City', 
     imageUrl: '/cityimage.jpeg', 
-    poem: 'Poem 6\n\nReplace this with your actual poem text.' 
+    poem: 'New York, New York\n\nSkyscrapers touch the azure sky,\nCentral Park where nature lies.\nCity of dreams, never asleep,\nMemories here, forever to keep.' 
   },
   { 
     id: 7, 
     title: 'Food', 
     imageUrl: '/foodimage.jpeg', 
-    poem: 'Poem 7\n\nReplace this with your actual poem text.' 
+    poem: 'Pad Thai Delight\n\nNoodles dance in savory sauce,\nTangy, sweet, a flavor boss.\nPeanuts crunch, lime squeezed just right,\nPad Thai, a culinary delight.' 
   },
   { 
     id: 8, 
     title: 'Place', 
     imageUrl: '/placeimage.jpeg', 
-    poem: 'Poem 8\n\nReplace this with your actual poem text.' 
+    poem: 'Coastal Haven\n\nSun-kissed shores and azure seas,\nWhispered secrets in the breeze.\nCharming town on golden sand,\nParadise in this blessed land.' 
   },
   { 
     id: 9, 
     title: 'Animal', 
     imageUrl: '/animalimage.jpeg', 
-    poem: 'Poem 9\n\nReplace this with your actual poem text.' 
+    poem: 'Manatee Magic\n\nGentle giants of the sea,\nGraceful, slow, and carefree.\nIn warm waters they gently glide,\nNature\'s beauty personified.' 
   },
 ]
 
