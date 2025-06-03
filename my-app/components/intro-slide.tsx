@@ -2,11 +2,7 @@
 
 import { motion } from 'framer-motion'
 
-interface IntroSlideProps {
-  onComplete: () => void
-}
-
-export function IntroSlide({ onComplete }: IntroSlideProps) {
+export function IntroSlide() {
 
   return (
     <motion.div

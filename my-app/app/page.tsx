@@ -1,8 +1,8 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { IntroSlide } from './components/intro-slide'
-import { PhotoGrid } from './components/photo-grid'
+import { IntroSlide } from '../components/intro-slide'
+import { PhotoGrid } from '../components/photo-grid'
 
 export default function Page() {
   const [showIntro, setShowIntro] = useState(true)
