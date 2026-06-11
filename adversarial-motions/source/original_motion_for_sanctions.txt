@@ -1,0 +1,3596 @@
+Case 3:24-cv-00963-WWB-SJH       Document 145   Filed 04/13/26   Page 1 of 26 PageID
+                                       1753
+
+
+
+                           UNITED STATES DISTRICT COURT
+                            MIDDLE DISTRICT OF FLORIDA
+                               JACKSONVILLE DIVISION
+
+ EDIN HUSIDIC D/B/A AMA EXPRESS,
+ INC., et al.,
+
+             Plaintiffs,
+
+ v.                                                No. 3:24-cv-00963-WWB-SJH
+
+ FR8 SOLUTIONS, INC., ALEN KAJDIC,
+ and AZRA BEGOVIC,
+
+           Defendants.
+ ______________________________________/
+
+                   PLAINTIFFS’ MOTION FOR SANCTIONS
+                AND INCORPORATED MEMORANDUM OF LAW
+
+       Plaintiffs1 move for sanctions for the spoliation of evidence against
+
+ Defendants FR8 SOLUTIONS, INC. (“FR8”), ALEN KAJDIC (“Kajdic”) and AZRA
+
+ BEGOVIC (“Begovic”) (collectively, “Defendants”), and state as follows:
+
+                                  INTRODUCTION
+
+       This case arises from a scheme by Defendants FR8, Kajdic, and Begovic to
+
+ defraud and underpay FR8’s truck drivers. Plaintiffs are truck drivers who
+
+
+ 1 Plaintiffs refers collectively to EDIN HUSIDIC, D/B/A AMA EXPRESS, INC., ADIS
+ DOGIC, SAMIR CAJIC, D/B/A TRANSITLINE, INC., SEMIR KUJUKOVIC, D/B/A
+ REDLINE TRANSPORT, LLC, ADIS ODOBASIC, D/B/A GREEN EXPEDITE, LLC, ALIJA
+ MARIC, ALVIR BAJREKTAREVIC, D/B/A ALVIR TRANSPORTATION, INC., AMIR
+ BAJREKTAREVIC, D/B/A LONE STAR TRANSPORT, INC. and CORONADO
+ TRANSPORT, LLC, ANTON PRENKOCAJ, D/B/A CAP TRUCKING, LLC, DALIBOR
+ DRAGAS, D/B/A GOLD STAR TRANSPORT, LLC, DAMIR KESEROVIC, DZEMAIL
+ HASANOVIC, ELVIS GRACANIN, D/B/A A&G LOGISTICS, LLC, ELVIS TOPIC, HASAN
+ DOGIC, IRFAN BAJREKTAREVIC, KENAN HUJDUR, LJEKA JUNCAJ, D/B/A LNI
+ TRUCKING, SAMIR DIZDAREVIC, D/B/A QUICK RUN, INC., SAMIR MEHULIC, BESIR
+ CATIC, and VAHID MARIC, D/B/A GTX LOGISTICS, LLC.
+Case 3:24-cv-00963-WWB-SJH          Document 145       Filed 04/13/26    Page 2 of 26 PageID
+                                          1754
+
+
+
+ contracted with FR8 to transport loads in exchange for 88% of the linehaul revenue
+
+ for each load received by FR8 from third-party brokers.
+
+        A central issue in this case is the drivers’ compensation under the
+
+ Independent Contractor & Non-Compete Agreements (“Independent Contractor
+
+ Agreements”) with FR8, which provide that FR8 shall pay the drivers “88% of
+
+ linehaul rate” as compensation for their services. Plaintiffs contend that FR8 must
+
+ pay each driver 88% of the revenue FR8 receives from the third-party broker for
+
+ the load. Defendants disagree and have argued each truckload is “a separate
+
+ subagreement [sic] or contract” between Plaintiffs and FR8. (Doc. 52 at 4.)
+
+        In reviewing the documents produced by Defendants in this case, Plaintiffs
+
+ discovered that Defendants produced contracts bearing Plaintiffs’ signatures, but
+
+ which contained different compensation terms than the contracts in Plaintiffs’
+
+ possession. Instead of the “88% of linehaul rate” language, Defendants produced
+
+ agreements which state that Plaintiffs are to be paid “88% of negotiated rate per
+
+ lane per occurrence.”2 Defendants identified these contracts in their discovery
+
+ responses as evidence supportive of their position on the merits.
+
+        The evidence that the agreements were altered prior to their production is
+
+ substantial. There are obvious visual discrepancies between the altered and the
+
+
+
+
+ 2 As discussed in more detail below, there are slight, non-material variations as to the
+
+ wording of the authentic contracts, with some saying “88% of linehaul rate,” “88%
+ linehaul,” or “88% of load.” None of the authentic agreements, however, include the “88%
+ of negotiated rate per lane per occurrence” language with respect to the terms of Plaintiffs’
+ compensation.
+                                              2
+Case 3:24-cv-00963-WWB-SJH         Document 145      Filed 04/13/26    Page 3 of 26 PageID
+                                         1755
+
+
+
+ authentic agreements. In addition, metadata analysis conducted by a forensic
+
+ expert retained by Plaintiffs confirms that pages of the agreements were modified
+
+ before they were produced.
+
+       Pursuant to this Court’s inherent power to safeguard the administration of
+
+ justice and to preserve the integrity of the discovery process, Plaintiffs seek
+
+ sanctions in the form of a default judgment against Defendants. In the alternative,
+
+ should the Court permit Defendants to continue to defend this case, Plaintiffs
+
+ request that this Court: (1) award Plaintiffs an adverse inference against
+
+ Defendants deeming admitted or established Plaintiffs’ allegations with respect to
+
+ the interpretation of the Independent Contractor Agreements and Defendants’
+
+ breach of the agreements; (2) appoint a special master to oversee and/or audit the
+
+ discovery fully at Defendants’ expense; (3) award Plaintiffs their attorneys’ fees
+
+ and costs in connection with uncovering the fabricated evidence and pursuing
+
+ sanctions; and (4) award any further relief the Court deems necessary or
+
+ appropriate.
+
+                             RELEVANT BACKGROUND
+
+       A. Procedural Background
+
+       On May 23, 2024, Plaintiffs commenced this action in the United States
+
+ District Court for the Northern District of Illinois, alleging claims for violation of the
+
+ Racketeering Influenced Corrupt Organization Act (“RICO”), 18 U.S.C. § 1962(c)
+
+ against Kajdic and Begovic, and breach of contract against FR8. (Doc. 1 at ¶¶ 83-
+
+ 108.) On July 16, 2024, Defendants moved to dismiss and transfer venue. (Docs.
+                                             3
+Case 3:24-cv-00963-WWB-SJH        Document 145      Filed 04/13/26    Page 4 of 26 PageID
+                                        1756
+
+
+
+ 16, 17.) In support, Defendants submitted the sworn declaration of Defendant
+
+ Begovic, as Chief Financial Officer of FR8. (Doc. 16-2.) In her Declaration, Begovic
+
+ stated that “true and accurate copies of the Independent Contractor Agreements,
+
+ offered to and executed by each of the named Plaintiffs” were attached as exhibits
+
+ to her Declaration and consisted of FR8’s business records. (Id. at ¶ 18, 19.)
+
+ Plaintiffs stipulate that these are the true and correct copies of the contracts they
+
+ signed with FR8. (See Plaintiffs’ Declarations attached as Composite Exhibit A3
+
+ at ¶ 5.)
+
+        The authentic agreements provide that Plaintiffs are to be paid “88% of
+
+ linehaul rate” (Docs. 16-3, 16-5–16-9, 16-12–16-23), “88% linehaul” (Doc. 16-4),
+
+ “88% of line haul” (Doc. 16-11), or “88% of load” (Doc. 16-10). The compensation
+
+ terms in several of the Independent Contractor Agreements are handwritten. (See
+
+ Docs. 16-4 at 4; 16-7 at 4; 16-10 at 4; 16-11 at 4; 16-13 at 4; 16-16 at 4; 16-21 at
+
+ 4; 16-23 at 4.4) As an example, a screenshot of the compensation terms of Plaintiff
+
+ Adis Dogic’s Agreement is shown below:
+
+
+
+
+ 3 Each Declaration for each Plaintiff is nearly identical, so for ease of reference, the
+
+ Declarations are attached and cited to as a Composite Exhibit.
+ 4 Page citations to docket entries (“Doc.”) refer to the CM/ECF-generated pagination.
+
+
+                                            4
+Case 3:24-cv-00963-WWB-SJH        Document 145     Filed 04/13/26   Page 5 of 26 PageID
+                                        1757
+
+
+
+ (Doc. 16-4 at 4.)
+
+         In September 2024, the parties stipulated to transfer this case to this Court.
+
+ (Docs. 23, 26, 27, 28.) Also, in September 2024, Plaintiffs filed their First Amended
+
+ Class Action Complaint (“FAC”), where they realleged their RICO and breach of
+
+ contract claims and added claims for violations of the Florida Deceptive and Unfair
+
+ Trade Practices Act, Fla. Stat. § 501.201, et seq., and the Truth in Leasing Act, 49
+
+ U.S.C. § 14704(a)(2). (Doc. 22 at ¶¶ 87-144.)
+
+         On October 11, 2024, Defendants filed a Motion to Dismiss Plaintiff’s FAC.
+
+ (Doc. 52.) In their Motion, Defendants argued that Plaintiffs claims “rest[] on a
+
+ fundamentally flawed misreading and misrepresentation” of the Independent
+
+ Contractor Agreements. (Id. at 2.) Defendants argued that each truckload was a
+
+ “separate subagreement (sic) or contract between Plaintiffs and FR8” (id. at 4) and
+
+ charged Plaintiffs with “repeatedly misstat[ing] and attempt[ing] to unilaterally
+
+ redefine the ‘line-haul rate’ that would be agreed upon per truckload basis”” (id. at
+
+ 3-4).
+
+         On February 19, 2026, the Court ruled on Defendants’ Motion to Dismiss.
+
+ (Doc. 135.) The Court determined the Independent Contractor Agreements are
+
+ unambiguous, concluded that Defendants’ proposed interpretation would lead to
+
+ an “absurd result,” and adopted Plaintiffs’ “rational interpretation” of the plain
+
+ contractual language. (Id. at 7, 10.) The Court dismissed Counts I and II against
+
+ Begovic and allowed all counts against Kajdic and FR8 to proceed. (Id. at 15).
+
+
+
+                                            5
+Case 3:24-cv-00963-WWB-SJH         Document 145      Filed 04/13/26    Page 6 of 26 PageID
+                                         1758
+
+
+
+       B. Defendants’ Discovery Responses and Production of Documents
+
+       While Defendants’ Motion to Dismiss was pending, this case proceeded to
+
+ discovery. Each Defendant was served with, and responded to, Plaintiffs’ First
+
+ Request for Production of Documents (the “Requests for Documents”).5
+
+       In their Requests for Documents directed to each Defendant, Plaintiffs
+
+ sought “[a]ll documents that support Your contention that Plaintiffs and the putative
+
+ Class are not entitled to 88% of the total gross revenue for each load they
+
+ transported at FR8’s direction.” (See, e.g., Ex. B at 4 ¶18; Ex. C at 8 ¶29.)
+
+ Defendants Begovic, Kajdic, and FR8 each responded to this request in virtually
+
+ the same manner—stating objections and then representing: “Defendant will
+
+ produce     the   Independent      Contractor    Agreements       with   Bates     stamp
+
+ ranges[]D002379-D005171.” (Ex. B at 4 ¶18; Ex. C at 8 ¶29.) (emphasis added).
+
+ Further, in response to Plaintiffs’ request for “[a]ll agreements and contracts
+
+ between Plaintiffs and FR8[,]” FR8 objected but represented: “Defendant will
+
+ produce     the   Independent      Contractor    Agreements       with   Bates     stamp
+
+ ranges[]D002379-D005171.” (Id. at 2 ¶3) (emphasis added). The authentic
+
+ agreements were not identified in response to these requests. These continue to
+
+ be the operative responses to these discovery requests; these responses have not
+
+
+
+ 5 Kadjic’s and Begovic’s respective Responses to Plaintiffs’ First Requests for Production
+
+ of Documents were served on February 26, 2025, and are attached as Composite
+ Exhibit B. FR8’s Response to Plaintiffs’ First Requests for Production of Documents was
+ served on April 16, 2025, and is attached as Exhibit C. The responses relevant to this
+ Motion are virtually identical. The page citations to exhibits refers to the internal page
+ numbers.
+                                             6
+Case 3:24-cv-00963-WWB-SJH       Document 145    Filed 04/13/26   Page 7 of 26 PageID
+                                       1759
+
+
+
+ been amended.
+
+       In early March 2025, Defendants produced responsive documents in
+
+ hardcopy format in five Banker’s boxes. Bates stamp ranges D002379-D005171
+
+ appeared within what looked to be personnel files with an individual folder for each
+
+ named Plaintiff containing documents pertaining to that Plaintiff, including the
+
+ purported Independent Contractor Agreement bearing the Plaintiffs’ signature.6
+
+ These hardcopy documents were produced to Plaintiffs in the form they were
+
+ provided by Defendants to then-Defendants’ counsel. (See Affidavit of Counsel ¶
+
+ 3-5, attached as Exhibit F.) Following this production, Plaintiffs held several
+
+ conferrals with Defendants regarding the production of the documents in electronic
+
+ format to preserve metadata and allow for a more streamlined review of the
+
+ documents.
+
+       On April 8, 2025, Defendants produced documents Bates stamped
+
+ D0000001-D011307 to Plaintiffs in electronic format. The electronic documents
+
+ that were produced were provided by Defendants to then-counsel for Defendants,
+
+ who made no alterations to the documents besides Bates stamping and making
+
+ certain redactions. (See Ex. F at ¶ 3-5.) Given the overall volume of documents
+
+ (with almost 49,000 documents collected or produced for review at that time), the
+
+ review was a time-consuming process.
+
+
+
+
+ 6 These are the altered agreements.
+
+
+                                          7
+Case 3:24-cv-00963-WWB-SJH         Document 145      Filed 04/13/26    Page 8 of 26 PageID
+                                         1760
+
+
+
+        C. Plaintiffs’ Discovery of the Altered Agreements
+
+        In around August 2025, Plaintiffs discovered that the Independent
+
+ Contractor Agreements that were produced by Defendants within Bates stamp
+
+ range D002379-D005171 contained different compensation terms than the
+
+ Independent Contractor Agreements that Plaintiffs had in their possession and
+
+ which had been previously filed while the case was pending in Illinois (the “Altered
+
+ Agreements”). The Altered Agreements are attached as Composite Exhibit D,
+
+ Sub Exs. 1-21. The Altered Agreements contain different compensation terms for
+
+ all named Plaintiffs except for two.7 Instead of stating “88% of linehaul,” “88% of
+
+ linehaul rate,” or “88% of load,” the Altered Agreements state that Plaintiffs’
+
+ compensation is “88% of negotiated rate per lane per occurrence[.]” (See, e.g., Ex.
+
+ D-1 at 3.)
+
+        Following this discovery, Plaintiffs began working with their forensic e-
+
+ discovery vendor to examine and analyze the authenticity of the documents. As
+
+ set forth below, the Altered Agreements have several indicia of manipulation.
+
+        For purposes of comparison, we take the Independent Contractor
+
+ Agreement of Plaintiff Adis Dogic as an example. The compensation term in his
+
+ authentic agreement is:
+
+
+
+
+ 7 An altered agreement for Alvir Bajrektarevic was not produced in discovery. Additionally,
+
+ Besir Catic was not a named Plaintiff at the time that the Altered Agreements were
+ produced. Therefore, Defendants did not produce any agreement for Besir Catic.
+                                             8
+Case 3:24-cv-00963-WWB-SJH       Document 145   Filed 04/13/26   Page 9 of 26 PageID
+                                       1761
+
+
+
+
+ (Doc. 16-4 at 3.) In contrast, the compensation term in the Altered Agreement
+
+ produced for Plaintiff Adis Dogic is:
+
+
+
+
+ (Ex. D-2 at 3 (Bates number D004094).) As shown above, the handwritten “88%
+
+ of linehaul” compensation term contained in the authentic agreement for Adis
+
+ Dogic has been replaced with a different, typed compensation term.
+
+       There is also a smudge on the bottom right corner of the same page in the
+
+ Altered Agreement for Plaintiff Dogic, shown below.
+
+
+
+
+ (See D-2 at 3.) This smudge does not appear in the authentic agreement:
+
+
+
+
+                                         9
+Case 3:24-cv-00963-WWB-SJH       Document 145      Filed 04/13/26   Page 10 of 26 PageID
+                                       1762
+
+
+
+ (See Doc. 16-4, at 4.) This same smudge, however, appears in the same spot on
+
+ the compensation page in virtually all of the Altered Agreements for each named
+
+ Plaintiff. (Ex. D-1 at 3; D-2 at 3; D-4 at 3; D-5 at 3; D-6 at 3; D-8 at 3; D-9 at 3; D-
+
+ 10 at 3; D-11 at 3; D-12 at 3; D-13 at 3; D-14 at 3; D-15 at 3; D-16 at 3; D-17 at 3;
+
+ D-18 at 3; D-19 at 3; D-20 at 3; D-21 at 3). By way of example, below is a
+
+ screenshot of the same spot in Plaintiff Husidic’s Altered Agreement:
+
+
+
+
+ (Ex. D-1 at 3.) The text contained within the compensation terms for each Altered
+
+ Agreement is also virtually the same for each named Plaintiff. (See, .e.g, id.) Taken
+
+ together, this evidence supports the finding that the same altered replacement
+
+ page was inserted in almost every Altered Agreement.
+
+       Analysis conducted by Forensic Director Rich Hoffman confirms that the
+
+ Altered Agreements were modified prior to production. (See Declaration of Rich
+
+ Hoffman attached as Exhibit E.) According to Mr. Hoffman, page 3 of the Altered
+
+ Adis Dogic Agreement is in text-based format (i.e., with selectable and editable
+
+ text), while other pages are image-based. (Id. at ¶ 15.) That suggests that a hard
+
+ copy of the Adis Dogic Agreement was originally scanned, and page 3 was then
+
+ subsequently altered. (Id.) Mr. Hoffman further attested that the metadata of the
+
+ Adis Dogic Agreement shows that it was modified – with pages added – using
+
+ Adobe Acrobat and saved as a new document on February 17, 2025. (Id.) As
+                                           10
+Case 3:24-cv-00963-WWB-SJH      Document 145      Filed 04/13/26   Page 11 of 26 PageID
+                                      1763
+
+
+
+ another example, Mr. Hoffman attested that the Irfan Bajrektarevic Agreement was
+
+ altered by a username “david” using Adobe Acrobat prior to production. (Id. at ¶
+
+ 12.) As evidence of the subsequent digital alteration, a scanned image of a piece
+
+ of hair that appeared on the original agreement is hidden in the altered agreement.
+
+ (Id.) Mr. Hoffman stated that the use of Adobe to modify the original document
+
+ changed the opacity of the hair and hid its appearance. (Id.) Mr. Hoffman also
+
+ stated that there is blurring and gray shading around the text and paragraph lines
+
+ in Section 3 of the Altered Agreement for Irfan Bajrektarevic, which is indicative of
+
+ digital manipulation. (Id.) In addition, Mr. Hoffman pointed to a hair that appeared
+
+ on the originally scanned contract for Dalibor Dragas, which was covered up as a
+
+ result of digital manipulation. (Id. at ¶ 5.) The Dalibor Dragas agreement produced
+
+ by Defendants is also a hybrid of scanned images and digitally created or modified
+
+ pages, which further supports the fact that there were post-scan alterations to the
+
+ agreement. (Id.)
+
+       In short, the evidence shows Defendants produced altered evidence to
+
+ Plaintiffs in discovery, which they identified in discovery responses as documents
+
+ that support Defendants’ proposed interpretation of the contract.
+
+       D. Plaintiffs’ Attempts      to   Confer    and    Defendants’     Counsel’s
+          Withdrawals
+
+       On September 24, 2025, Plaintiffs informed Defendants of the issues
+
+ identified in this Motion and requested a conferral. On their October 3, 2025
+
+ conferral call, following a review of the matter, counsel for Defendants informed
+
+
+                                          11
+Case 3:24-cv-00963-WWB-SJH       Document 145     Filed 04/13/26   Page 12 of 26 PageID
+                                       1764
+
+
+
+ Plaintiffs they intended to withdraw from their representation of Defendants.
+
+ Counsel for Defendants then moved to withdraw. (Dkt. 103, 104, 106.) On October
+
+ 6, 2025, Defendants also moved for an extension of time to produce documents,
+
+ or, in the alternative, for a protective order, in which they explained that counsel
+
+ moved to withdraw “following a reasonable review and conferral addressing the
+
+ issues raised in the [Plaintiffs’ September 24, 2025 letter]” and sought a protective
+
+ order temporarily relieving them from having to produce further documents
+
+ because “undersigned counsel cannot meaningfully produce documents in light of
+
+ the allegations in the [Plaintiffs’ September 24, 2025 letter].” (Id. at 3, 6.) On
+
+ October 7, 2025, Plaintiffs filed their Motion for Sanctions (Doc. 108.)
+
+         The Court held a hearing to address these, and other issues, on October 15,
+
+ 2025. (See Docs. 109, 110.) Shortly before the hearing, new counsel appeared for
+
+ Defendants. (See Doc. 112-114.) Following the hearing, the Court permitted the
+
+ two law firms that had served as counsel for Defendants to withdraw and denied
+
+ all pending motions, including Plaintiffs’ Motion for Sanctions, without prejudice, to
+
+ allow Plaintiffs to confer with Defendants’ new counsel. (Doc. 116.) The Court also
+
+ vacated all case deadlines to give the parties time to confer and discuss mediation.
+
+ (Id.)
+
+         Two weeks later, on October 31, 2025, and before any meaningful conferral
+
+ could take place on the issues raised in this Motion, Defendants’ newly retained
+
+ counsel informed Plaintiffs they would be withdrawing from the representation of
+
+ the Defendants (See Doc. 117, at 4.)
+                                          12
+Case 3:24-cv-00963-WWB-SJH       Document 145      Filed 04/13/26   Page 13 of 26 PageID
+                                       1765
+
+
+
+       Defendants’ fifth set of attorneys appeared on November 11, 2025. (See
+
+ Docs. 118-121.) The case was stayed through January 2026 pending mediation.
+
+ (See, e.g, Docs. 123, 124, 128, 130, 133.) As part of the conferrals on this Motion,
+
+ Defendants stated that they are willing to stipulate that “any documents containing
+
+ writings that contradict those attached to the Declaration [of Defendant Begovic]
+
+ are not the operative agreements for the respective plaintiff drivers.” For the
+
+ reasons set forth below, the offered stipulation does not resolve the issues raised
+
+ in this Motion nor obviates the need for sanctions.
+
+                                     ARGUMENT
+
+       I.     THIS COURT SHOULD ENTER A DEFAULT JUDGMENT AGAINST
+              DEFENDANTS AS A SANCTION FOR THE PRODUCTION OF
+              FABRICATED EVIDENCE.
+
+       Federal district courts possess the inherent power “to protect the orderly
+
+ administration of justice and to preserve the dignity of the tribunal.” Kleiner v. First
+
+ Nat’l Bank of Atlanta, 751 F.2d 1193, 1209 (11th Cir. 1985) (citing Roadway
+
+ Express v. Piper, 447 U.S. 752, 764-65 (1980)). “This power includes ‘the ability
+
+ to fashion an appropriate sanction for conduct which abuses the judicial
+
+ process[.]’” VIP Auto Glass, Inc. v. GEICO Gen. Ins. Co., No. 16-CV-2012, 2018
+
+ WL 3649638, at *3 (M.D. Fla. Jan. 3, 2018) (quoting Chambers v. NASCO, Inc.,
+
+ 501 U.S. 32, 44-45 (1991)). The inherent powers doctrine is “most often invoked
+
+ where a party commits perjury or destroys or doctors evidence.” Access
+
+ Innovators, LLC v. Usha Martin Ltd., No. 09-CV-2893, 2010 WL 11508119, at *1
+
+ (N.D. Ga. Apr. 28, 2010) (quoting Qantum Commc’ns. Corp. v. Star Broad., Inc.,
+                                           13
+Case 3:24-cv-00963-WWB-SJH       Document 145      Filed 04/13/26    Page 14 of 26 PageID
+                                       1766
+
+
+
+ 473 F. Supp. 2d 1249, 1269 (S.D. Fla. 2007)).
+
+       False evidence need not be introduced at trial to be sanctionable, see, e.g.,
+
+ Forsberg v. Pefanis, 634 F. App’x 676, 679 (11th Cir. 2015); rather, the production
+
+ of fabricated documents in discovery is sufficient to justify case-ending sanctions,
+
+ see, e.g., Franklin Livestock, Inc. v. Boehringer Ingelheim Vetmedica, Inc., 251 F.
+
+ Supp. 3d 962, 971 (E.D.N.C. 2017) , aff’d, 721 F. App’x 263 (4th Cir. 2018); Garcia
+
+ v. Berkshire Life Ins. Co. Of Am., 569 F.3d 1174, 1182 (10th Cir. 2009). As the
+
+ Eleventh Circuit noted, “[i]t would be strange to require a district court to wait until
+
+ false evidence is introduced at trial before sanctions are appropriate, all the while
+
+ wasting the time and resources of the court and the opposing party.” Forsberg,
+
+ 634 F. App'x at 679. In short, “false evidence is sufficient cause for sanctions[.]”
+
+ Id. Indeed, “[c]ourts faced with the fabrication of evidence by a party frequently
+
+ impose the sanction of dismissal or default.” Art Remedy, LLC v. Lana Moes Art,
+
+ LLC, No. 18-61912-CIV, 2019 WL 13063496, at *4 (S.D. Fla. Sept. 26, 2019)
+
+ (collecting cases). However, before entering a case-terminating sanction, a court
+
+ must find that: (1) Defendants acted willfully or in bad faith; (2) Plaintiffs were
+
+ prejudiced by Defendants’ conduct; and (3) lesser sanctions would not serve the
+
+ goals of punishment and deterrence. See Telectron, Inc. v. Overhead Door Corp.,
+
+ 116 F.R.D. 107, 131 (S.D. Fla. 1987).
+
+       In this case, all three elements are satisfied.
+
+              A.     Defendants acted willfully and in bad faith.
+
+       “Bad faith exists when the court finds that a fraud has been practiced upon
+                                           14
+Case 3:24-cv-00963-WWB-SJH       Document 145      Filed 04/13/26    Page 15 of 26 PageID
+                                       1767
+
+
+
+ it, or that the very temple of justice has been defiled, or where a party or attorney
+
+ knowingly or recklessly raises a frivolous argument, delays or disrupts the
+
+ litigation, or hampers the enforcement of a court order.” Qantum Commc’ns Corp.,
+
+ 473 F. Supp. 2d at 1268-69 (cleaned up). Courts have found that fabricating and
+
+ submitting knowingly false evidence constitutes willful and bad faith conduct. See
+
+ Am. Rena Int'l Corp. v. Sis-Joyce Int'l Co., No. CV 12-6972, 2015 WL 12732433,
+
+ at *23 (C.D. Cal. Dec. 14, 2015).
+
+       In Garcia v. Berkshire Life Ins. Co. of Am., the Tenth Circuit Court of Appeals
+
+ affirmed a district court’s dismissal of a plaintiff’s case, following the trial court’s
+
+ finding that the plaintiff had fabricated at least four self-serving documents that she
+
+ produced during discovery to support her claims. 569 F.3d 1174, 1177-1182 (10th
+
+ Cir. 2009). Similarly, in Franklin Livestock, Inc., the Fourth Circuit Court of Appeals
+
+ affirmed a district court’s dismissal of a plaintiff’s claims, when the plaintiff
+
+ knowingly produced fabricated business records in discovery. 251 F. Supp. 3d at
+
+ 962, aff’d, 721 F. App’x 263 (4th Cir. 2018). In Roche Diagnostics Corp. v. Priority
+
+ Healthcare Corp., the Northern District of Alabama entered default judgment as a
+
+ sanction against defendants that produced forged invoices in discovery. 8 No. 18-
+
+ CV-01479, 2020 WL 2308319, at *11 (N.D. Ala. May 8, 2020).
+
+
+
+ 8 Although numerous allegations of misconduct were made against the defendants in that
+
+ case, the court noted that it “need not proceed further” than the first allegation—that
+ “Defendants’ document production contains numerous demonstrable forgeries that have
+ never been corrected, explained, or even acknowledged.” Id. at *7. The court noted that
+ “[t]his allegation alone, demonstrated by clear and convincing evidence, is more than
+ enough to require case-ending sanctions.” Id.
+                                           15
+Case 3:24-cv-00963-WWB-SJH       Document 145      Filed 04/13/26   Page 16 of 26 PageID
+                                       1768
+
+
+
+       Applying these principles to the case at bar, a default judgment is warranted.
+
+ The evidence supports a finding that Defendants, in bad faith, fabricated evidence
+
+ relating to a pivotal issue in this case, namely, the compensation terms in Plaintiffs’
+
+ agreements with FR8. The Altered Agreements were produced bearing Plaintiffs’
+
+ signatures at the end (when Plaintiffs never signed those Altered Agreements) and
+
+ were identified in discovery responses produced by all three Defendants as
+
+ evidence to support their contention that Plaintiffs are not entitled to 88% of the
+
+ revenue for each load transported for FR8. These discovery responses have not
+
+ been amended.9
+
+       The critical nature of the fabricated evidence supports the severity of the
+
+ sanction requested. See Roche Diagnostics Corp., 2020 WL 2308319, at *7 (“The
+
+ severity of [a case-ending] sanction is warranted in large part because the
+
+ doctored evidence cuts to the very essence of [plaintiff’s] substantive claims.”).
+
+ Defendants produced self-serving fabricated evidence relating to a central issue in
+
+ this case, compensation under the Independent Contractor Agreements, and
+
+ specifically identified the Altered Agreements in their respective responses to
+
+ Plaintiffs’ discovery requests seeking the evidence to support their contention that
+
+ Plaintiffs are not entitled to 88% of the revenue per load transported. Because
+
+
+
+
+ 9 Rule 37(c)(1) authorizes the imposition of sanctions based on a party’s failure to
+ supplement or amend responses to requests for production of documents. See Dragon
+ Jade Int'l, Ltd. v. Ultroid, LLC, No. 17-CV-2422, 2019 WL 5887171, at *4 (M.D. Fla. Nov.
+ 12, 2019).
+
+                                           16
+Case 3:24-cv-00963-WWB-SJH       Document 145      Filed 04/13/26   Page 17 of 26 PageID
+                                       1769
+
+
+
+ Defendants’ misconduct is “closely intertwined with the merits of the case[,]” a
+
+ default judgment against Defendants is particularly appropriate. See Qantum, 473
+
+ F. Supp. 2d at 1269 (“the need for sanctions is heightened when the misconduct
+
+ relates to the pivotal or ‘linchpin’ issue in the case,” and such misconduct “militates
+
+ heavily in favor of the severe sanction of default.”).
+
+       Defendants’ stated willingness to stipulate that “any documents containing
+
+ writings that contradict those attached to the Declaration [of Defendant Begovic]
+
+ are not the operative agreements for the respective plaintiff drivers” does not alter
+
+ this result. The production of fabricated documents in discovery is enough to
+
+ sanction a party. For instance, in Franklin Livestock, Inc., the Fourth Circuit Court
+
+ of Appeals affirmed a district court’s decision dismissing plaintiff’s claims even
+
+ through the plaintiff, on its own, admitted that it had produced doctored evidence,
+
+ disavowed the authenticity of the fabricated documents, and produced the
+
+ authentic evidence. 251 F. Supp. 3d at 970, aff’d 721 F. App’x 264 (4th Cir. 2018).
+
+ The trial court rejected plaintiff’s justification that it committed a mere “technical”
+
+ error, which it self-disclosed and corrected within the requirements of Rule 26 to
+
+ provide supplemental discovery, noting that “the creation of false records that are
+
+ passed off as originals and which materially contradict the original records later
+
+ produced cannot be glossed over as a ‘mistake.’” Id. at 968.
+
+       Defendants’ proposed stipulation comes months after Plaintiffs’ counsel first
+
+ brought the fabricated evidence to Defendants’ attention on September 24, 2025;
+
+ it does not arise from a self-disclosure (as was the case in Franklin Livestock) nor
+                                           17
+Case 3:24-cv-00963-WWB-SJH        Document 145       Filed 04/13/26    Page 18 of 26 PageID
+                                        1770
+
+
+
+ does it explain or acknowledge the fabrication. See Roche Diagnostics Corp., 2020
+
+ WL 2308319, at *9. To date, Defendants have offered no adequate justification for
+
+ why the Altered Agreements were produced without explanation or identification,
+
+ containing a different compensation term that aligns with the Defendants’ litigation
+
+ position, but bearing all other portions of the authentic agreements including
+
+ Plaintiffs’ signature pages from the authentic documents.10 Cf. Carroll-Harris v.
+
+ Wilkie, No. 17-CV-11711, 2019 WL 2205851, at *6 (E.D. Mich. May 22, 2019)
+
+ (rejecting plaintiff’s explanation that fabricated emails were her personal notes
+
+ where fabricated emails included headings, subject line, and sender and recipients
+
+ from authentic email but “completely replace[d] portions of the emails without
+
+ explanation or identification”). Defendants likewise have offered no adequate
+
+ justification for the identification of only the Altered Agreements in their written
+
+ discovery responses as evidence supportive of their position.11
+
+
+
+
+ 10 Defendants may argue that Plaintiffs could have deposed Defendants about the Altered
+
+ Agreements. But Plaintiffs are entitled to one seven-hour deposition of each party, Fed.
+ R. Civ. P. 26(d)(1), and discovery is ongoing; Defendants have yet to produce their
+ relevant text messages. Thus, Plaintiffs do not yet have the complete records to take a
+ comprehensive deposition of Defendants on the merits issues. Plaintiffs, confronted with
+ altered documents produced in discovery, should not be required to use prematurely their
+ only opportunity to depose key witnesses. That would only serve to prejudice Plaintiffs
+ further. If Defendants had exculpatory evidence, it should have been produced to Plaintiffs
+ during their good-faith conferrals on this Motion.
+ 11 Even if only one Defendant altered the documents, sanctions would still be justified as
+
+ to all Defendants because they each rely on the Altered Agreements in their respective
+ discovery responses, which have not been amended.
+                                             18
+Case 3:24-cv-00963-WWB-SJH       Document 145      Filed 04/13/26   Page 19 of 26 PageID
+                                       1771
+
+
+
+              B.     Plaintiffs are prejudiced by Defendants’ fabrication of
+                     evidence.
+
+       The Eleventh Circuit has recognized that prejudice from falsified evidence
+
+ can consist of having to “consum[e] substantial resources to respond to and ‘undo’
+
+ the victimizer’s lies and distortions” or “vigorously attempt to pry information from
+
+ the deceitful party.” Forsberg, 634 F. App'x at 680 (cleaned up). Further, “falsified
+
+ evidence substantially prejudices an opposing party by casting doubt on the
+
+ veracity of all of the culpable party’s submissions throughout litigation.” Garcia, 569
+
+ F.3d at 1180. When presented with fabricated evidence, “[t]he prejudiced party is
+
+ forced either to attempt independent corroboration of each submission, at
+
+ substantial expense of time and money, or to accept the real possibility that those
+
+ discovery documents submitted by the opposing party are inaccurate.” Id. Not only
+
+ does the alteration of evidence prejudice the victimized party, it also “prejudices
+
+ the court and its administration of the judicial process to the extent it introduces
+
+ uncertainty, requires additional investigation into the fabrication, and undermines
+
+ the validity of the litigation process.” Martin v. SGT, Inc., No. 19-cv-00289, 2022
+
+ WL 17975993, at *16 (D. Utah Dec. 28, 2022).
+
+       The production of the Altered Agreements prejudiced Plaintiffs, as Plaintiffs’
+
+ attorneys and their staff spent significant time and effort investigating the nature
+
+ and origin of the Altered Agreements to determine whether they were authentic.
+
+ Plaintiffs’ attorneys also had to consult with, and pay for, a forensic expert to
+
+ confirm the Altered Agreements were manipulated.
+
+
+                                           19
+Case 3:24-cv-00963-WWB-SJH       Document 145      Filed 04/13/26   Page 20 of 26 PageID
+                                       1772
+
+
+
+       Moreover, Defendants’ actions disrupted and hampered the prosecution of
+
+ Plaintiffs’ claims. Plaintiffs’ time was diverted to investigating and determining the
+
+ extent of the fabrication. The case was further delayed by the subsequent
+
+ withdrawals of the law firms representing Defendants after Plaintiffs discovered the
+
+ Altered Agreements. (Docs. 103, 104, 106, 116, 125, 126). Those withdrawals also
+
+ delayed the production of documents, as the law firm that previously represented
+
+ Defendants, citing “ethical concerns,” sought an extension of time, or in the
+
+ alternative, a protective order to dispense it from the obligation of producing further
+
+ documents in this matter. (Doc. 107 at ¶ 7). As a result, Defendants’ fabrication of
+
+ evidence delayed the fact-finding process as well as Plaintiffs’ prosecution of their
+
+ claims.
+
+       More importantly, however, confidence in the discovery as a whole has been
+
+ undermined. Plaintiffs now must corroborate the validity of every piece of evidence
+
+ Defendants have produced and will produce in this litigation, including extensive
+
+ damages evidence. This is especially significant because, due to the sheer volume
+
+ of the documents involved in this action, Plaintiffs had previously agreed to accept
+
+ from Defendants Excel spreadsheets which purportedly summarize the contents
+
+ of authentic documents within Defendants’ possession. But now Plaintiffs have
+
+ reason to doubt anything Defendants produce or prepare for this litigation.
+
+ Likewise, Defendants’ fabrication of evidence interferes with this Court’s ability to
+
+ make an honest and true determination on the merits of this case. Permitting a suit
+
+ to proceed is “futile” when neither the Court nor Plaintiffs can have any confidence
+                                           20
+Case 3:24-cv-00963-WWB-SJH       Document 145      Filed 04/13/26    Page 21 of 26 PageID
+                                       1773
+
+
+
+ that anything Defendants produce is accurate and authentic. Roche Diagnostics
+
+ Corp., 2020 WL 2308319, at *10.
+
+       Further, Defendants’ proposed stipulation does not cure the prejudice to
+
+ Plaintiffs. Plaintiffs’ attorneys have already spent significant time and resources
+
+ investigating, and ultimately uncovering, the fabrication of evidence. The delays
+
+ have already occurred. And Defendants’ credibility cannot be rehabilitated. See,
+
+ e.g., id. (“[T]he court cannot permit any party to ‘defile’ the ‘very temple of justice’
+
+ by creating and projecting a false reality.”) (quoting Chambers, 501 U.S. at 46);
+
+ White Cap., L.P. v. Heyden Enters., LLC, No. 23-14248, 2025 WL 414721, *2 (S.D.
+
+ Fla. Feb. 6, 2025) (quoting Bernal v. All. Am. Inv. Realty, Inc., 479 F. Supp. 2d
+
+ 1291, 1339 (S.D. Fla. 2007)) (“The parties––and the Court––cannot trust that
+
+ [Defendants] have produced, or will ever produce, all discoverable evidence.”)
+
+ (cleaned up).
+
+              C.     Lesser sanctions would not serve the goals of punishment
+                     and deterrence.
+
+       Case-terminating sanctions are particularly appropriate where, as here, a
+
+ party submits fabricated evidence. See, e.g., Roche Diagnostics Corp., 2020 WL
+
+ 2308319, at *7; VIP Auto Glass, 2018 WL 3649638, at *4-5 (“Numerous courts
+
+ have dismissed claims where a party has fabricated evidence or committed
+
+ perjury.”). A lesser sanction, such as the exclusion of the fabricated evidence,
+
+ would not be enough to deter further discovery misconduct by Defendants. See,
+
+ e.g., Carroll-Harris v. Wilkie, No. 17-CV-11711, 2019 WL 2205851, at *7 (E.D.
+
+
+                                           21
+Case 3:24-cv-00963-WWB-SJH        Document 145      Filed 04/13/26   Page 22 of 26 PageID
+                                        1774
+
+
+
+ Mich. May 22, 2019) (finding lesser sanctions for producing altered documents in
+
+ discovery would not be appropriate). Assessing fees and costs, without more,
+
+ would not “sufficiently address [Plaintiffs’] concern about the veracity of other
+
+ documents disclosed” by Defendants. Id. Exclusion of the Altered Agreements
+
+ would also be an “insufficient sanction” for purposes of deterrence, as “litigants
+
+ could infer that they have everything to gain, and nothing to lose by manufacturing
+
+ evidence.” Id. at *8 (internal quotations omitted). Allowing Defendants’ misconduct
+
+ to go unpunished would not serve the ends of justice, and it would not deter similar
+
+ wrongdoing in the future. A default judgment is the appropriate sanction in this
+
+ case. See, e.g., Access Innovators, 2010 WL 11508119, at *3 (“When a party
+
+ fabricates a document or provides false evidence relating to a key issue in a case,
+
+ courts have made clear that the appropriate sanction is the ultimate sanction of
+
+ dismissal.”).
+
+       II.       ALTERNATIVELY, IF THIS COURT DOES NOT ENTER DEFAULT
+                 JUDGMENT, THEN THIS COURT SHOULD GRANT PLAINTIFFS
+                 AN ADVERSE INFERENCE AGAINST DEFENDANTS AND
+                 APPOINT A SPECIAL MASTER TO OVERSEE DISCOVERY.
+
+                 A.   This Court should grant Plaintiffs an adverse inference
+                      against Defendants because of Defendants’ spoilation of
+                      evidence.
+
+       This Court may impose sanctions for the spoilation12 of evidence pursuant
+
+ to its inherent powers. See Swofford v. Eslinger, 671 F. Supp. 2d 1274, 1280 (M.D.
+
+
+ 12 Spoilation “is the ‘intentional destruction, mutilation, alteration, or concealment of
+ evidence.’” Optowave Co. v. Nikitin, No. 6:05-cv-1083-Orl-22DAB, 2006 WL 3231422, at
+ *7 (M.D. Fla. Nov. 7, 2006) (quoting Black’s Law Dictionary, 1437 (8th Ed. 2004)).
+                                            22
+Case 3:24-cv-00963-WWB-SJH      Document 145     Filed 04/13/26   Page 23 of 26 PageID
+                                      1775
+
+
+
+ Fla. 2009). “Sanctions the Court may impose against a defendant for spoliation
+
+ include, but are not limited to, the following: default judgment, adverse inference
+
+ or rebuttable presumption instructions to the jury, striking pleadings, and an award
+
+ of fees and costs incurred by the injured party as a result of the spoliation.” Id.
+
+ There are different types of adverse inferences, including instructing a jury “that
+
+ certain facts are deemed admitted and must be accepted as true[.]” Penick v.
+
+ Harbor Freight Tools, USA, Inc., 481 F. Supp. 3d 1286, 1295 (S.D. Fla. 2020).
+
+       Should the Court find that entry of default judgment is inappropriate, the
+
+ Court should deem admitted and established the facts alleged in the FAC (or the
+
+ SAC, should the Court permit amendment, see Doc. 140) regarding the meaning
+
+ and interpretation of the Independent Contractor Agreements and Defendants’
+
+ breach of the agreements. As outlined above, the evidence supports a finding that
+
+ Defendants altered crucial evidence in bad faith to support their position on the
+
+ merits of the case. If the authentic Independent Contractor Agreements supported
+
+ Defendants’ position, there would be no reason for Defendants to alter them.
+
+ Accordingly, an adverse inference is appropriate.
+
+             B.     This Court should appoint a special master to oversee
+                    discovery at Defendants’ expense.
+
+       This Court has the authority to appoint a special master pursuant to Fed. R.
+
+ Civ. P. 53 and its inherent powers. See Pycsa Panama, S.A. v. Tensar Earth
+
+ Techs., Inc., No. 06-20624-CIV, 2008 WL 11403205, at *2 (S.D. Fla. May 8, 2008)
+
+ (special master appointed with costs allocated to party that committed discovery
+
+
+                                         23
+Case 3:24-cv-00963-WWB-SJH       Document 145      Filed 04/13/26   Page 24 of 26 PageID
+                                       1776
+
+
+
+ abuses). Here, due to Defendants’ misconduct and lack of credibility, a special
+
+ master should be appointed, at Defendants’ sole expense, to oversee discovery
+
+ and ensure Defendants’ truthful and accurate responses to discovery requests
+
+ moving forward. “[D]efendants simply cannot be trusted to do this job themselves.”
+
+ Cobell v. Babbitt, 37 F. Supp. 2d 6, 37 (D.D.C. 1999). As a result, the appointment
+
+ of a special master is appropriate.
+
+              C.     This Court should award fees and costs.
+
+       This Court has authority to assess fees and costs as a result of spoliation of
+
+ evidence. See Swofford, 671 F. Supp. 2d at 1280. As set forth above, Plaintiffs’
+
+ counsel spent significant time investigating the Altered Agreements, including
+
+ consulting with, and paying for, a forensic expert to confirm the Altered
+
+ Agreements were manipulated. The Court should award Plaintiffs’ fees and costs
+
+ incurred in connection with uncovering the fabricated evidence and pursuing
+
+ sanctions.
+
+                                REQUESTED RELIEF
+
+       For the foregoing reasons, Plaintiffs respectfully request that this Court: (1)
+
+ enter a default judgment in Plaintiffs’ favor and against Defendants; (2) award
+
+ Plaintiffs their attorneys’ fees and costs; and (3) award Plaintiffs any further relief
+
+ this Court deems just. In the alternative, Plaintiffs respectfully request this Court:
+
+ (1) award Plaintiffs an adverse inference against Defendants with respect to the
+
+ interpretation of the independent contractor agreements and Defendants’ breach
+
+ of the agreements; (2) appoint a special master to oversee discovery; (3) award
+                                           24
+Case 3:24-cv-00963-WWB-SJH       Document 145      Filed 04/13/26    Page 25 of 26 PageID
+                                       1777
+
+
+
+ Plaintiffs their attorneys’ fees and costs; and (4) award any further relief this Court
+
+ deems just.
+
+                       LOCAL RULE 3.01(g) CERTIFCATION
+
+       Pursuant to Local Rule 3.01(g), counsel for Plaintiffs certifies that they
+
+ conferred with counsel for Defendants through the exchange of emails and on
+
+ several videoconference calls, including, most recently, on April 2 and 3, 2026,
+
+ regarding the relief sought in this Motion in a good faith effort to resolve the issues,
+
+ but the parties were unable to reach an agreement on all the issues raised and the
+
+ relief sought in this Motion.
+
+                                  AI CERTIFICATION
+
+       Pursuant to the Court’s Standing Order, the undersigned certifies that no
+
+ generative AI was used in the drafting and preparation of the filing.
+
+                                                Respectfully submitted,
+
+                                                /s/ Stephanie A. Casey
+                                                Rain Montero
+                                                Pro hac vice
+                                                Illinois Attorney No. 6339412
+                                                JAFFE & BERLIN, L.L.C.
+                                                111. W. Washington St., Suite 900
+                                                Chicago, IL 60602
+                                                Phone: (312) 372-1523
+                                                rmontero@jaffeberlin.com
+
+                                                Stephanie A. Casey
+                                                Florida Bar No. 97483
+                                                scasey@colson.com
+                                                Thomas A. Kroeger
+                                                Florida Bar No. 19303
+                                                tom@colson.com
+                                                Sabrina S. Saieh
+                                           25
+Case 3:24-cv-00963-WWB-SJH     Document 145    Filed 04/13/26   Page 26 of 26 PageID
+                                     1778
+
+
+
+                                             Florida Bar No. 125290
+                                             sabrina@colson.com
+                                             COLSON HICKS EIDSON, P.A.
+                                             806 S. Douglas Road, Suite 1200
+                                             Coral Gables, FL 33134
+                                             Phone: (305) 476-7400
+
+
+                          CERTIFICATE OF SERVICE
+
+       I HEREBY CERTIFY that on April 13, 2026, I filed a true and correct copy of
+
+ the foregoing document with the Clerk of Court using the CM/ECF system, which
+
+ caused the document to be served on all counsel of record via transmission of
+
+ Notice of Electronic Filing generated by CM/ECF.
+
+                                             /s/ Stephanie A. Casey
+                                             Stephanie A. Casey
+
+
+
+
+                                        26
+Case 3:24-cv-00963-WWB-SJH   Document 145-1   Filed 04/13/26   Page 1 of 41 PageID
+                                    1779
+
+
+
+                COMPOSITE EXHIBIT A
+                      Plaintiffs’ Declarations
+ %#& !     
+                                 
+          Case 3:24-cv-00963-WWB-SJH      Document 145-1          Filed 04/13/26   Page 2 of 41 PageID
+                                                 1780
+
+
+
+                                         UNITED STATES DISTRICT COURT
+                                          MIDDLE DISTRICT OF FLORIDA
+                                            JACKSONVILLE DIVISION
+
+             EDIN HUSIDIC D/B/A AMA EXPRESS,
+             INC., et al.,
+
+                              Plaintiffs,
+
+             v.                                                     No. 3:24-cv-00963-WGY-SJH
+
+             FR8 SOLUTIONS, INC., ALEN KAJDIC,
+             and AZRA BEGOVIC,
+
+                       Defendants.
+             ______________________________________/
+
+                                          DECLARATION OF ADIS DOGIC
+
+                      1.      My name is Adis Dogic. I am over the age of eighteen and competent
+
+             to testify to the matters set forth in this Declaration.
+
+                      2.      I was an independent contractor with Defendant FR8 Solutions, Inc.
+
+             (“FR8”), and I have personal knowledge of the matters stated herein.
+
+                      3.      I have reviewed the document produced by Defendants FR8, Alen
+
+             Kajdic, and Azra Begovic (collectively, “Defendants”) in discovery, bearing Bates
+
+             Nos. D004092-D004108, which purports to be my signed Independent Contractor &
+
+             Non-Compete Agreement (“Agreement”).
+
+                      4.      I did not sign the Agreement produced by Defendants in discovery,
+
+             bearing Bates Nos. D004092-D004108.
+
+                      5.      A true and correct copy of the Agreement that I signed was filed by
+                                                         1
+ %#& !     
+                                 
+          Case 3:24-cv-00963-WWB-SJH      Document 145-1      Filed 04/13/26   Page 3 of 41 PageID
+                                                 1781
+
+
+
+             Defendants at ECF No. 16-4.
+
+
+             I declare under penalty of perjury under the laws of the United States of America
+
+             that the foregoing is true and correct.
+
+                                          $ "       $'$$
+             Executed on ______________________, at ______________________.
+
+
+                                                                 ______________________
+                                                                 Adis Dogic
+
+
+
+
+                                                          2
+#!$      
+         Case 3:24-cv-00963-WWB-SJH                  Document 145-1   Filed 04/13/26   Page 4 of 41 PageID
+                                                            1782
+
+
+
+                                       UNITED STATES DISTRICT COURT
+                                        MIDDLE DISTRICT OF FLORIDA
+                                          JACKSONVILLE DIVISION
+
+            EDIN HUSIDIC D/B/A AMA EXPRESS,
+            INC., et al.,
+
+                             Plaintiffs,
+
+            v.                                                         No. 3:24-cv-00963-WGY-SJH
+
+            FR8 SOLUTIONS, INC., ALEN KAJDIC,
+            and AZRA BEGOVIC,
+
+                      Defendants.
+            ______________________________________/
+
+                                       DECLARATION OF ADIS ODOBASIC
+
+                     1.      My name is Adis Odobasic. I am over the age of eighteen and
+
+            competent to testify to the matters set forth in this Declaration.
+
+                     2.      I was an independent contractor with Defendant FR8 Solutions, Inc.
+
+            (“FR8”), and I have personal knowledge of the matters stated herein.
+
+                     3.      I have reviewed the document produced by Defendants FR8, Alen
+
+            Kajdic, and Azra Begovic (collectively, “Defendants”) in discovery, bearing Bates
+
+            Nos. D004111-D004127, which purports to be my signed Independent Contractor &
+
+            Non-Compete Agreement (“Agreement”).
+
+                     4.      I did not sign the Agreement produced by Defendants in discovery,
+
+            bearing Bates Nos. D004111-D004127.
+
+                     5.      A true and correct copy of the Agreement that I signed was filed by
+                                                              1
+#!$      
+         Case 3:24-cv-00963-WWB-SJH                  Document 145-1   Filed 04/13/26   Page 5 of 41 PageID
+                                                            1783
+
+
+
+            Defendants at ECF No. 16-7.
+
+
+            I declare under penalty of perjury under the laws of the United States of America
+
+            that the foregoing is true and correct.
+
+                                                         %
+            Executed on ______________________,
+                                "    at ______________________.
+
+
+                                                                       ______________________
+                                                                       Adis Odobasic
+
+
+
+
+                                                              2
+!&$  '!"    
+                              
+          Case 3:24-cv-00963-WWB-SJH        Document 145-1        Filed 04/13/26   Page 6 of 41 PageID
+                                                   1784
+
+
+
+                                        UNITED STATES DISTRICT COURT
+                                         MIDDLE DISTRICT OF FLORIDA
+                                           JACKSONVILLE DIVISION
+
+             EDIN HUSIDIC D/B/A AMA EXPRESS,
+             INC., et al.,
+
+                               Plaintiffs,
+
+             v.                                                     No. 3:24-cv-00963-WGY-SJH
+
+             FR8 SOLUTIONS, INC., ALEN KAJDIC,
+             and AZRA BEGOVIC,
+
+                       Defendants.
+             ______________________________________/
+
+                                        DECLARATION OF ALIJA MARIC
+
+                      1.       My name is Alija Maric. I am over the age of eighteen and competent
+
+             to testify to the matters set forth in this Declaration.
+
+                      2.       I was an independent contractor with Defendant FR8 Solutions, Inc.
+
+             (“FR8”), and I have personal knowledge of the matters stated herein.
+
+                      3.       I have reviewed the document produced by Defendants FR8, Alen
+
+             Kajdic, and Azra Begovic (collectively, “Defendants”) in discovery, bearing Bates
+
+             Nos. D004132-D004148, which purports to be my signed Independent Contractor &
+
+             Non-Compete Agreement (“Agreement”).
+
+                      4.       I did not sign the Agreement produced by Defendants in discovery,
+
+             bearing Bates Nos. D004132-D004148.
+
+                      5.       A true and correct copy of the Agreement that I signed was filed by
+                                                         1
+!&$  '!"    
+                              
+          Case 3:24-cv-00963-WWB-SJH        Document 145-1   Filed 04/13/26     Page 7 of 41 PageID
+                                                   1785
+
+
+
+             Defendants at ECF No. 16-8.
+
+
+             I declare under penalty of perjury under the laws of the United States of America
+
+             that the foregoing is true and correct.
+
+
+                                %!#                # "$
+             Executed on ______________________, at ______________________.
+
+
+                                                              ______________________
+                                                              Alija Maric
+
+
+
+
+                                                       2
+#!$     
+                                   
+          Case 3:24-cv-00963-WWB-SJH    Document 145-1           Filed 04/13/26   Page 8 of 41 PageID
+                                               1786
+
+
+
+                                         UNITED STATES DISTRICT COURT
+                                          MIDDLE DISTRICT OF FLORIDA
+                                            JACKSONVILLE DIVISION
+
+             EDIN HUSIDIC D/B/A AMA EXPRESS,
+             INC., et al.,
+
+                              Plaintiffs,
+
+             v.                                                    No. 3:24-cv-00963-WGY-SJH
+
+             FR8 SOLUTIONS, INC., ALEN KAJDIC,
+             and AZRA BEGOVIC,
+
+                       Defendants.
+             ______________________________________/
+
+                                  DECLARATION OF AMIR BAJREKTAREVIC
+
+                      1.      My name is Amir Bajrektarevic. I am over the age of eighteen and
+
+             competent to testify to the matters set forth in this Declaration.
+
+                      2.      I was an independent contractor with Defendant FR8 Solutions, Inc.
+
+             (“FR8”), and I have personal knowledge of the matters stated herein.
+
+                      3.      I have reviewed the document produced by Defendants FR8, Alen
+
+             Kajdic, and Azra Begovic (collectively, “Defendants”) in discovery, bearing Bates
+
+             Nos. D004179-D004194, which purports to be my signed Independent Contractor &
+
+             Non-Compete Agreement (“Agreement”).
+
+                      4.      I did not sign the Agreement produced by Defendants in discovery,
+
+             bearing Bates Nos. D004179-D004194.
+
+                      5.      A true and correct copy of the Agreement that I signed was filed by
+                                                        1
+#!$     
+                                   
+          Case 3:24-cv-00963-WWB-SJH    Document 145-1          Filed 04/13/26   Page 9 of 41 PageID
+                                               1787
+
+
+
+             Defendants at ECF No. 16-10.
+
+
+             I declare under penalty of perjury under the laws of the United States of America
+
+             that the foregoing is true and correct.
+
+                                           "        "%""
+             Executed on ______________________, at ______________________.
+
+
+                                                                  ______________________
+                                                                  Amir Bajrektarevic
+
+
+
+
+                                                            2
+ %#& !      
+                                   
+         Case 3:24-cv-00963-WWB-SJH    Document 145-1            Filed 04/13/26   Page 10 of 41 PageID
+                                              1788
+
+
+
+                                          UNITED STATES DISTRICT COURT
+                                           MIDDLE DISTRICT OF FLORIDA
+                                             JACKSONVILLE DIVISION
+
+             EDIN HUSIDIC D/B/A AMA EXPRESS,
+             INC., et al.,
+
+                               Plaintiffs,
+
+             v.                                                    No. 3:24-cv-00963-WGY-SJH
+
+             FR8 SOLUTIONS, INC., ALEN KAJDIC,
+             and AZRA BEGOVIC,
+
+                       Defendants.
+             ______________________________________/
+
+                                     DECLARATION OF ANTON PRENKOCAJ
+
+                      1.       My name is Anton Prenkocaj. I am over the age of eighteen and
+
+             competent to testify to the matters set forth in this Declaration.
+
+                      2.       I was an independent contractor with Defendant FR8 Solutions, Inc.
+
+             (“FR8”), and I have personal knowledge of the matters stated herein.
+
+                      3.       I have reviewed the document produced by Defendants FR8, Alen
+
+             Kajdic, and Azra Begovic (collectively, “Defendants”) in discovery, bearing Bates
+
+             Nos. D004198-D004247, which purports to be my signed Independent Contractor &
+
+             Non-Compete Agreement (“Agreement”).
+
+                      4.       I did not sign the Agreement produced by Defendants in discovery,
+
+             bearing Bates Nos. D004198-D004247.
+
+                      5.       A true and correct copy of the Agreement that I signed was filed by
+                                                         1
+ %#& !      
+                                   
+         Case 3:24-cv-00963-WWB-SJH    Document 145-1       Filed 04/13/26   Page 11 of 41 PageID
+                                              1789
+
+
+
+             Defendants at ECF No. 16-11.
+
+
+             I declare under penalty of perjury under the laws of the United States of America
+
+             that the foregoing is true and correct.
+
+
+                                 $ "                 $'$$
+             Executed on ______________________, at ______________________.
+
+
+                                                              ______________________
+                                                              Anton Prenkocaj
+
+
+
+
+                                                       2
+$"%       
+        Case 3:24-cv-00963-WWB-SJH                   Document 145-1   Filed 04/13/26   Page 12 of 41 PageID
+                                                            1790
+
+
+
+                                       UNITED STATES DISTRICT COURT
+                                        MIDDLE DISTRICT OF FLORIDA
+                                          JACKSONVILLE DIVISION
+
+            EDIN HUSIDIC D/B/A AMA EXPRESS,
+            INC., et al.,
+
+                             Plaintiffs,
+
+            v.                                                          No. 3:24-cv-00963-WGY-SJH
+
+            FR8 SOLUTIONS, INC., ALEN KAJDIC,
+            and AZRA BEGOVIC,
+
+                      Defendants.
+            ______________________________________/
+
+                                     DECLARATION OF DALIBOR DRAGAS
+
+                     1.      My name is Dalibor Dragas. I am over the age of eighteen and
+
+            competent to testify to the matters set forth in this Declaration.
+
+                     2.      I was an independent contractor with Defendant FR8 Solutions, Inc.
+
+            (“FR8”), and I have personal knowledge of the matters stated herein.
+
+                     3.      I have reviewed the document produced by Defendants FR8, Alen
+
+            Kajdic, and Azra Begovic (collectively, “Defendants”) in discovery, bearing Bates
+
+            Nos. D003712-D003728, which purports to be my signed Independent Contractor &
+
+            Non-Compete Agreement (“Agreement”).
+
+                     4.      I did not sign the Agreement produced by Defendants in discovery,
+
+            bearing Bates Nos. D003712-D003728.
+
+                     5.      A true and correct copy of the Agreement that I signed was filed by
+                                                              1
+$"%       
+        Case 3:24-cv-00963-WWB-SJH                   Document 145-1   Filed 04/13/26   Page 13 of 41 PageID
+                                                            1791
+
+
+
+            Defendants at ECF No. 16-12.
+
+
+            I declare under penalty of perjury under the laws of the United States of America
+
+            that the foregoing is true and correct.
+
+                                         #!
+                                                      #&##
+            Executed on ______________________, at ______________________.
+
+
+                                                                        ______________________
+                                                                        Dalibor Dragas
+
+
+
+
+                                                              2
+#!$ 
+                            
+         Case 3:24-cv-00963-WWB-SJH          Document 145-1      Filed 04/13/26    Page 14 of 41 PageID
+                                                    1792
+
+
+
+                                       UNITED STATES DISTRICT COURT
+                                        MIDDLE DISTRICT OF FLORIDA
+                                          JACKSONVILLE DIVISION
+
+              EDIN HUSIDIC D/B/A AMA EXPRESS,
+              INC., et al.,
+
+                               Plaintiffs,
+
+              v.                                                    No. 3:24-cv-00963-WGY-SJH
+
+              FR8 SOLUTIONS, INC., ALEN KAJDIC,
+              and AZRA BEGOVIC,
+
+                        Defendants.
+              ______________________________________/
+
+                                    DECLARATION OF DAMIR KESEROVIC
+
+                          1.   My name is Damir Keserovic. I am over the age of eighteen and
+
+              competent to testify to the matters set forth in this Declaration.
+
+                          2.   I was an independent contractor with Defendant FR8 Solutions, Inc.
+
+              (“FR8”), and I have personal knowledge of the matters stated herein.
+
+                          3.   I have reviewed the document produced by Defendants FR8, Alen
+
+              Kajdic, and Azra Begovic (collectively, “Defendants”) in discovery, bearing Bates
+
+              Nos. D003732-D003749, which purports to be my signed Independent Contractor &
+
+              Non-Compete Agreement (“Agreement”).
+
+                          4.   I did not sign the Agreement produced by Defendants in discovery,
+
+              bearing Bates Nos. D003732-D003749.
+
+                          5.   A true and correct copy of the Agreement that I signed was filed by
+                                                         1
+#!$ 
+                            
+         Case 3:24-cv-00963-WWB-SJH          Document 145-1   Filed 04/13/26   Page 15 of 41 PageID
+                                                    1793
+
+
+
+              Defendants at ECF No. 16-13.
+
+
+              I declare under penalty of perjury under the laws of the United States of America
+
+              that the foregoing is true and correct.
+
+
+                              "                "%""
+              Executed on ______________________, at ______________________.
+
+
+                                                                ______________________
+                                                                Damir Keserovic
+
+
+
+
+                                                        2
+ %#& !          
+         Case 3:24-cv-00963-WWB-SJH                  Document 145-1   Filed 04/13/26   Page 16 of 41 PageID
+                                                            1794
+
+
+
+                                        UNITED STATES DISTRICT COURT
+                                         MIDDLE DISTRICT OF FLORIDA
+                                           JACKSONVILLE DIVISION
+
+             EDIN HUSIDIC D/B/A AMA EXPRESS,
+             INC., et al.,
+
+                              Plaintiffs,
+
+             v.                                                         No. 3:24-cv-00963-WGY-SJH
+
+             FR8 SOLUTIONS, INC., ALEN KAJDIC,
+             and AZRA BEGOVIC,
+
+                       Defendants.
+             ______________________________________/
+
+                                  DECLARATION OF DZEMAIL HASANOVIC
+
+                     1.       My name is Dzemail Hasanovic. I am over the age of eighteen and
+
+             competent to testify to the matters set forth in this Declaration.
+
+                     2.       I was an independent contractor with Defendant FR8 Solutions, Inc.
+
+             (“FR8”), and I have personal knowledge of the matters stated herein.
+
+                     3.       I have reviewed the document produced by Defendants FR8, Alen
+
+             Kajdic, and Azra Begovic (collectively, “Defendants”) in discovery, bearing Bates
+
+             Nos. D003752-D003768, which purports to be my signed Independent Contractor &
+
+             Non-Compete Agreement (“Agreement”).
+
+                     4.       I did not sign the Agreement produced by Defendants in discovery,
+
+             bearing Bates Nos. D003752-D003768.
+
+                     5.       A true and correct copy of the Agreement that I signed was filed by
+                                                              1
+ %#& !          
+         Case 3:24-cv-00963-WWB-SJH                  Document 145-1   Filed 04/13/26   Page 17 of 41 PageID
+                                                            1795
+
+
+
+             Defendants at ECF No. 16-14.
+
+
+             I declare under penalty of perjury under the laws of the United States of America
+
+             that the foregoing is true and correct.
+
+
+                               $ "                          $'$$
+             Executed on ______________________, at ______________________.
+
+
+                                                                        ______________________
+                                                                        Dzemail Hasanovic
+
+
+
+
+                                                              2
+$"%    
+                                   
+         Case 3:24-cv-00963-WWB-SJH   Document 145-1              Filed 04/13/26   Page 18 of 41 PageID
+                                             1796
+
+
+
+                                            UNITED STATES DISTRICT COURT
+                                             MIDDLE DISTRICT OF FLORIDA
+                                               JACKSONVILLE DIVISION
+
+             EDIN HUSIDIC D/B/A AMA EXPRESS,
+             INC., et al.,
+
+                               Plaintiffs,
+
+             v.                                                     No. 3:24-cv-00963-WGY-SJH
+
+             FR8 SOLUTIONS, INC., ALEN KAJDIC,
+             and AZRA BEGOVIC,
+
+                       Defendants.
+             ______________________________________/
+
+                                            DECLARATION OF EDIN HUSIDIC
+
+                      1.       My name is Edin Husidic. I am over the age of eighteen and competent
+
+             to testify to the matters set forth in this Declaration.
+
+                      2.       I was an independent contractor with Defendant FR8 Solutions, Inc.
+
+             (“FR8”), and I have personal knowledge of the matters stated herein.
+
+                      3.       I have reviewed the document produced by Defendants FR8, Alen
+
+             Kajdic, and Azra Begovic (collectively, “Defendants”) in discovery, bearing Bates
+
+             Nos. D003782-D003814, which purports to be my signed Independent Contractor &
+
+             Non-Compete Agreement (“Agreement”).
+
+                      4.       I did not sign the Agreement produced by Defendants in discovery,
+
+             bearing Bates Nos. D003782-D003814.
+
+                      5.       A true and correct copy of the Agreement that I signed was filed by
+                                                          1
+$"%    
+                                   
+         Case 3:24-cv-00963-WWB-SJH   Document 145-1             Filed 04/13/26   Page 19 of 41 PageID
+                                             1797
+
+
+
+             Defendants at ECF No. 16-3.
+
+
+             I declare under penalty of perjury under the laws of the United States of America
+
+             that the foregoing is true and correct.
+
+                                             #!        #&##
+             Executed on ______________________, at ______________________.
+
+
+                                                                   ______________________
+                                                                   Edin Husidic
+
+
+
+
+                                                             2
+ %#& !
+                         
+          Case 3:24-cv-00963-WWB-SJH          Document 145-1     Filed 04/13/26    Page 20 of 41 PageID
+                                                     1798
+
+
+
+                                      UNITED STATES DISTRICT COURT
+                                       MIDDLE DISTRICT OF FLORIDA
+                                         JACKSONVILLE DIVISION
+
+              EDIN HUSIDIC D/B/A AMA EXPRESS,
+              INC., et al.,
+
+                              Plaintiffs,
+
+              v.                                                    No. 3:24-cv-00963-WGY-SJH
+
+              FR8 SOLUTIONS, INC., ALEN KAJDIC,
+              and AZRA BEGOVIC,
+
+                        Defendants.
+              ______________________________________/
+
+                                    DECLARATION OF ELVIS GRACANIN
+
+                         1.   My name is Elvis Gracanin. I am over the age of eighteen and
+
+              competent to testify to the matters set forth in this Declaration.
+
+                         2.   I was an independent contractor with Defendant FR8 Solutions, Inc.
+
+              (“FR8”), and I have personal knowledge of the matters stated herein.
+
+                         3.   I have reviewed the document produced by Defendants FR8, Alen
+
+              Kajdic, and Azra Begovic (collectively, “Defendants”) in discovery, bearing Bates
+
+              Nos. D003816-D003832, which purports to be my signed Independent Contractor &
+
+              Non-Compete Agreement (“Agreement”).
+
+                         4.   I did not sign the Agreement produced by Defendants in discovery,
+
+              bearing Bates Nos. D003816-D003832.
+
+                         5.   A true and correct copy of the Agreement that I signed was filed by
+                                                         1
+ %#& !
+                         
+          Case 3:24-cv-00963-WWB-SJH          Document 145-1   Filed 04/13/26   Page 21 of 41 PageID
+                                                     1799
+
+
+
+              Defendants at ECF No. 16-15.
+
+
+              I declare under penalty of perjury under the laws of the United States of America
+
+              that the foregoing is true and correct.
+
+
+                                $ "              $'$$
+              Executed on ______________________, at ______________________.
+
+
+                                                                 ______________________
+                                                                 Elvis Gracanin
+
+
+
+
+                                                        2
+ %#& ! 
+                                
+         Case 3:24-cv-00963-WWB-SJH         Document 145-1          Filed 04/13/26   Page 22 of 41 PageID
+                                                   1800
+
+
+
+                                          UNITED STATES DISTRICT COURT
+                                           MIDDLE DISTRICT OF FLORIDA
+                                             JACKSONVILLE DIVISION
+
+             EDIN HUSIDIC D/B/A AMA EXPRESS,
+             INC., et al.,
+
+                                  Plaintiffs,
+
+             v.                                                       No. 3:24-cv-00963-WGY-SJH
+
+             FR8 SOLUTIONS, INC., ALEN KAJDIC,
+             and AZRA BEGOVIC,
+
+                       Defendants.
+             ______________________________________/
+
+                                            DECLARATION OF ELVIS TOPIC
+
+                       1.         My name is Elvis Topic. I am over the age of eighteen and competent
+
+             to testify to the matters set forth in this Declaration.
+
+                       2.         I was an independent contractor with Defendant FR8 Solutions, Inc.
+
+             (“FR8”), and I have personal knowledge of the matters stated herein.
+
+                       3.         I have reviewed the document produced by Defendants FR8, Alen
+
+             Kajdic, and Azra Begovic (collectively, “Defendants”) in discovery, bearing Bates
+
+             Nos. D003836-D003852, which purports to be my signed Independent Contractor &
+
+             Non-Compete Agreement (“Agreement”).
+
+                       4.         I did not sign the Agreement produced by Defendants in discovery,
+
+             bearing Bates Nos. D003836-D003852.
+
+                       5.         A true and correct copy of the Agreement that I signed was filed by
+                                                            1
+ %#& ! 
+                                
+         Case 3:24-cv-00963-WWB-SJH         Document 145-1   Filed 04/13/26   Page 23 of 41 PageID
+                                                   1801
+
+
+
+             Defendants at ECF No. 16-16.
+
+
+             I declare under penalty of perjury under the laws of the United States of America
+
+             that the foregoing is true and correct.
+
+
+                               $ "               #
+             Executed on ______________________, at ______________________.
+
+
+                                                               ______________________
+                                                               Elvis Topic
+
+
+
+
+                                                       2
+#!$  
+                                
+         Case 3:24-cv-00963-WWB-SJH    Document 145-1             Filed 04/13/26   Page 24 of 41 PageID
+                                              1802
+
+
+
+                                            UNITED STATES DISTRICT COURT
+                                             MIDDLE DISTRICT OF FLORIDA
+                                               JACKSONVILLE DIVISION
+
+             EDIN HUSIDIC D/B/A AMA EXPRESS,
+             INC., et al.,
+
+                               Plaintiffs,
+
+             v.                                                     No. 3:24-cv-00963-WGY-SJH
+
+             FR8 SOLUTIONS, INC., ALEN KAJDIC,
+             and AZRA BEGOVIC,
+
+                       Defendants.
+             ______________________________________/
+
+                                            DECLARATION OF HASAN DOGIC
+
+                      1.       My name is Hasan Dogic. I am over the age of eighteen and competent
+
+             to testify to the matters set forth in this Declaration.
+
+                      2.       I was an independent contractor with Defendant FR8 Solutions, Inc.
+
+             (“FR8”), and I have personal knowledge of the matters stated herein.
+
+                      3.       I have reviewed the document produced by Defendants FR8, Alen
+
+             Kajdic, and Azra Begovic (collectively, “Defendants”) in discovery, bearing Bates
+
+             Nos. D003855-D003871, which purports to be my signed Independent Contractor &
+
+             Non-Compete Agreement (“Agreement”).
+
+                      4.       I did not sign the Agreement produced by Defendants in discovery,
+
+             bearing Bates Nos. D003855-D003871.
+
+                      5.       A true and correct copy of the Agreement that I signed was filed by
+                                                         1
+#!$  
+                                
+         Case 3:24-cv-00963-WWB-SJH    Document 145-1       Filed 04/13/26   Page 25 of 41 PageID
+                                              1803
+
+
+
+             Defendants at ECF No. 16-17.
+
+
+             I declare under penalty of perjury under the laws of the United States of America
+
+             that the foregoing is true and correct.
+
+
+                              "             " %
+             Executed on ______________________, at ______________________.
+
+
+                                                              ______________________
+                                                              Hasan Dogic
+
+
+
+
+                                                       2
+!&$  '!"   
+                                   
+         Case 3:24-cv-00963-WWB-SJH     Document 145-1          Filed 04/13/26    Page 26 of 41 PageID
+                                               1804
+
+
+
+                                        UNITED STATES DISTRICT COURT
+                                         MIDDLE DISTRICT OF FLORIDA
+                                           JACKSONVILLE DIVISION
+
+             EDIN HUSIDIC D/B/A AMA EXPRESS,
+             INC., et al.,
+
+                              Plaintiffs,
+
+             v.                                                    No. 3:24-cv-00963-WGY-SJH
+
+             FR8 SOLUTIONS, INC., ALEN KAJDIC,
+             and AZRA BEGOVIC,
+
+                       Defendants.
+             ______________________________________/
+
+                                 DECLARATION OF IRFAN BAJREKTAREVIC
+
+                     1.       My name is Irfan Bajrektarevic. I am over the age of eighteen and
+
+             competent to testify to the matters set forth in this Declaration.
+
+                     2.       I was an independent contractor with Defendant FR8 Solutions, Inc.
+
+             (“FR8”), and I have personal knowledge of the matters stated herein.
+
+                     3.       I have reviewed the document produced by Defendants FR8, Alen
+
+             Kajdic, and Azra Begovic (collectively, “Defendants”) in discovery, bearing Bates
+
+             Nos. D003875-D003891, which purports to be my signed Independent Contractor &
+
+             Non-Compete Agreement (“Agreement”).
+
+                     4.       I did not sign the Agreement produced by Defendants in discovery,
+
+             bearing Bates Nos. D003875-D003891.
+
+                     5.       A true and correct copy of the Agreement that I signed was filed by
+                                                        1
+!&$  '!"   
+                                   
+         Case 3:24-cv-00963-WWB-SJH     Document 145-1      Filed 04/13/26   Page 27 of 41 PageID
+                                               1805
+
+
+
+             Defendants at ECF No. 16-18.
+
+
+             I declare under penalty of perjury under the laws of the United States of America
+
+             that the foregoing is true and correct.
+
+
+                               %!#            ##  
+             Executed on ______________________, at ______________________.
+
+
+                                                              ______________________
+                                                              Irfan Bajrektarevic
+
+
+
+
+                                                       2
+$"%    
+        Case 3:24-cv-00963-WWB-SJH                 Document 145-1   Filed 04/13/26   Page 28 of 41 PageID
+                                                          1806
+
+
+
+                                       UNITED STATES DISTRICT COURT
+                                        MIDDLE DISTRICT OF FLORIDA
+                                          JACKSONVILLE DIVISION
+
+            EDIN HUSIDIC D/B/A AMA EXPRESS,
+            INC., et al.,
+
+                             Plaintiffs,
+
+            v.                                                        No. 3:24-cv-00963-WGY-SJH
+
+            FR8 SOLUTIONS, INC., ALEN KAJDIC,
+            and AZRA BEGOVIC,
+
+                      Defendants.
+            ______________________________________/
+
+                                      DECLARATION OF KENAN HUJDUR
+
+                     1.      My name is Kenan Hujdur. I am over the age of eighteen and competent
+
+            to testify to the matters set forth in this Declaration.
+
+                     2.      I was an independent contractor with Defendant FR8 Solutions, Inc.
+
+            (“FR8”), and I have personal knowledge of the matters stated herein.
+
+                     3.      I have reviewed the document produced by Defendants FR8, Alen
+
+            Kajdic, and Azra Begovic (collectively, “Defendants”) in discovery, bearing Bates
+
+            Nos. D003894-D003910, which purports to be my signed Independent Contractor &
+
+            Non-Compete Agreement (“Agreement”).
+
+                     4.      I did not sign the Agreement produced by Defendants in discovery,
+
+            bearing Bates Nos. D003894-D003910.
+
+                     5.      A true and correct copy of the Agreement that I signed was filed by
+                                                            1
+$"%    
+        Case 3:24-cv-00963-WWB-SJH                 Document 145-1   Filed 04/13/26   Page 29 of 41 PageID
+                                                          1807
+
+
+
+            Defendants at ECF No. 16-19.
+
+
+            I declare under penalty of perjury under the laws of the United States of America
+
+            that the foregoing is true and correct.
+
+
+                               #!            '!&"
+            Executed on ______________________, at ______________________.
+
+
+                                                                      ______________________
+                                                                      Kenan Hujdur
+
+
+
+
+                                                            2
+#!$    
+                               
+         Case 3:24-cv-00963-WWB-SJH      Document 145-1           Filed 04/13/26   Page 30 of 41 PageID
+                                                1808
+
+
+
+                                        UNITED STATES DISTRICT COURT
+                                         MIDDLE DISTRICT OF FLORIDA
+                                           JACKSONVILLE DIVISION
+
+             EDIN HUSIDIC D/B/A AMA EXPRESS,
+             INC., et al.,
+
+                              Plaintiffs,
+
+             v.                                                     No. 3:24-cv-00963-WGY-SJH
+
+             FR8 SOLUTIONS, INC., ALEN KAJDIC,
+             and AZRA BEGOVIC,
+
+                       Defendants.
+             ______________________________________/
+
+                                        DECLARATION OF LJEKA JUNCAJ
+
+                      1.      My name is Ljeka Juncaj. I am over the age of eighteen and competent
+
+             to testify to the matters set forth in this Declaration.
+
+                      2.      I was an independent contractor with Defendant FR8 Solutions, Inc.
+
+             (“FR8”), and I have personal knowledge of the matters stated herein.
+
+                      3.      I have reviewed the document produced by Defendants FR8, Alen
+
+             Kajdic, and Azra Begovic (collectively, “Defendants”) in discovery, bearing Bates
+
+             Nos. D003914-D003930, which purports to be my signed Independent Contractor &
+
+             Non-Compete Agreement (“Agreement”).
+
+                      4.      I did not sign the Agreement produced by Defendants in discovery,
+
+             bearing Bates Nos. D003914-D003930.
+
+                      5.      A true and correct copy of the Agreement that I signed was filed by
+                                                         1
+#!$    
+                               
+         Case 3:24-cv-00963-WWB-SJH      Document 145-1       Filed 04/13/26   Page 31 of 41 PageID
+                                                1809
+
+
+
+             Defendants at ECF No. 16-20.
+
+
+             I declare under penalty of perjury under the laws of the United States of America
+
+             that the foregoing is true and correct.
+
+                                         "        "%""
+             Executed on ______________________, at ______________________.
+
+
+                                                                ______________________
+                                                                Ljeka Juncaj
+
+
+
+
+                                                          2
+#!$        
+        Case 3:24-cv-00963-WWB-SJH                  Document 145-1   Filed 04/13/26   Page 32 of 41 PageID
+                                                           1810
+
+
+
+                                        UNITED STATES DISTRICT COURT
+                                         MIDDLE DISTRICT OF FLORIDA
+                                           JACKSONVILLE DIVISION
+
+            EDIN HUSIDIC D/B/A AMA EXPRESS,
+            INC., et al.,
+
+                             Plaintiffs,
+
+            v.                                                         No. 3:24-cv-00963-WGY-SJH
+
+            FR8 SOLUTIONS, INC., ALEN KAJDIC,
+            and AZRA BEGOVIC,
+
+                      Defendants.
+            ______________________________________/
+
+                                         DECLARATION OF SAMIR CAJIC
+
+                     1.      My name is Samir Cajic. I am over the age of eighteen and competent
+
+            to testify to the matters set forth in this Declaration.
+
+                     2.      I was an independent contractor with Defendant FR8 Solutions, Inc.
+
+            (“FR8”), and I have personal knowledge of the matters stated herein.
+
+                     3.      I have reviewed the document produced by Defendants FR8, Alen
+
+            Kajdic, and Azra Begovic (collectively, “Defendants”) in discovery, bearing Bates
+
+            Nos. D003933-D003949, which purports to be my signed Independent Contractor &
+
+            Non-Compete Agreement (“Agreement”).
+
+                     4.      I did not sign the Agreement produced by Defendants in discovery,
+
+            bearing Bates Nos. D003933-D003949.
+
+                     5.      A true and correct copy of the Agreement that I signed was filed by
+                                                             1
+#!$        
+        Case 3:24-cv-00963-WWB-SJH                  Document 145-1   Filed 04/13/26   Page 33 of 41 PageID
+                                                           1811
+
+
+
+            Defendants at ECF No. 16-5.
+
+
+            I declare under penalty of perjury under the laws of the United States of America
+
+            that the foregoing is true and correct.
+
+                                    "                       "%""
+            Executed on ______________________, at ______________________.
+
+
+                                                                       ______________________
+                                                                       Samir Cajic
+
+
+
+
+                                                             2
+!&$  '!" 
+                            
+         Case 3:24-cv-00963-WWB-SJH         Document 145-1       Filed 04/13/26    Page 34 of 41 PageID
+                                                   1812
+
+
+
+                                       UNITED STATES DISTRICT COURT
+                                        MIDDLE DISTRICT OF FLORIDA
+                                          JACKSONVILLE DIVISION
+
+              EDIN HUSIDIC D/B/A AMA EXPRESS,
+              INC., et al.,
+
+                               Plaintiffs,
+
+              v.                                                    No. 3:24-cv-00963-WGY-SJH
+
+              FR8 SOLUTIONS, INC., ALEN KAJDIC,
+              and AZRA BEGOVIC,
+
+                        Defendants.
+              ______________________________________/
+
+                                    DECLARATION OF SAMIR DIZDAREVIC
+
+                          1.   My name is Samir Dizdarevic. I am over the age of eighteen and
+
+              competent to testify to the matters set forth in this Declaration.
+
+                          2.   I was an independent contractor with Defendant FR8 Solutions, Inc.
+
+              (“FR8”), and I have personal knowledge of the matters stated herein.
+
+                          3.   I have reviewed the document produced by Defendants FR8, Alen
+
+              Kajdic, and Azra Begovic (collectively, “Defendants”) in discovery, bearing Bates
+
+              Nos. D003960-D003976, which purports to be my signed Independent Contractor &
+
+              Non-Compete Agreement (“Agreement”).
+
+                          4.   I did not sign the Agreement produced by Defendants in discovery,
+
+              bearing Bates Nos. D003960-D003976.
+
+                          5.   A true and correct copy of the Agreement that I signed was filed by
+                                                         1
+!&$  '!" 
+                            
+         Case 3:24-cv-00963-WWB-SJH         Document 145-1   Filed 04/13/26        Page 35 of 41 PageID
+                                                   1813
+
+
+
+              Defendants at ECF No. 16-21.
+
+
+              I declare under penalty of perjury under the laws of the United States of America
+
+              that the foregoing is true and correct.
+
+
+                              %!#                  $ (#
+              Executed on ______________________, at ______________________.
+
+
+                                                               ______________________
+                                                               Samir Dizdarevic
+
+
+
+
+                                                        2
+ %#& !  
+                               
+         Case 3:24-cv-00963-WWB-SJH        Document 145-1        Filed 04/13/26   Page 36 of 41 PageID
+                                                  1814
+
+
+
+                                       UNITED STATES DISTRICT COURT
+                                        MIDDLE DISTRICT OF FLORIDA
+                                          JACKSONVILLE DIVISION
+
+             EDIN HUSIDIC D/B/A AMA EXPRESS,
+             INC., et al.,
+
+                               Plaintiffs,
+
+             v.                                                    No. 3:24-cv-00963-WGY-SJH
+
+             FR8 SOLUTIONS, INC., ALEN KAJDIC,
+             and AZRA BEGOVIC,
+
+                       Defendants.
+             ______________________________________/
+
+                                      DECLARATION OF SAMIR MEHULIC
+
+                      1.       My name is Samir Mehulic. I am over the age of eighteen and
+
+             competent to testify to the matters set forth in this Declaration.
+
+                      2.       I was an independent contractor with Defendant FR8 Solutions, Inc.
+
+             (“FR8”), and I have personal knowledge of the matters stated herein.
+
+                      3.       I have reviewed the document produced by Defendants FR8, Alen
+
+             Kajdic, and Azra Begovic (collectively, “Defendants”) in discovery, bearing Bates
+
+             Nos. D003979-D003995, which purports to be my signed Independent Contractor &
+
+             Non-Compete Agreement (“Agreement”).
+
+                      4.       I did not sign the Agreement produced by Defendants in discovery,
+
+             bearing Bates Nos. D003979-D003995.
+
+                      5.       A true and correct copy of the Agreement that I signed was filed by
+                                                         1
+ %#& !  
+                               
+         Case 3:24-cv-00963-WWB-SJH        Document 145-1   Filed 04/13/26   Page 37 of 41 PageID
+                                                  1815
+
+
+
+             Defendants at ECF No. 16-22.
+
+
+             I declare under penalty of perjury under the laws of the United States of America
+
+             that the foregoing is true and correct.
+
+
+                                $ "               $'$$
+             Executed on ______________________, at ______________________.
+
+
+                                                               ______________________
+                                                               Samir Mehulic
+
+
+
+
+                                                       2
+ %#& ! 
+                            
+         Case 3:24-cv-00963-WWB-SJH          Document 145-1     Filed 04/13/26    Page 38 of 41 PageID
+                                                    1816
+
+
+
+                                     UNITED STATES DISTRICT COURT
+                                      MIDDLE DISTRICT OF FLORIDA
+                                        JACKSONVILLE DIVISION
+
+             EDIN HUSIDIC D/B/A AMA EXPRESS,
+             INC., et al.,
+
+                             Plaintiffs,
+
+             v.                                                    No. 3:24-cv-00963-WGY-SJH
+
+             FR8 SOLUTIONS, INC., ALEN KAJDIC,
+             and AZRA BEGOVIC,
+
+                       Defendants.
+             ______________________________________/
+
+                                  DECLARATION OF SEMIR KUJUKOVIC
+
+                      1.     My name is Semir Kujukovic. I am over the age of eighteen and
+
+             competent to testify to the matters set forth in this Declaration.
+
+                      2.     I was an independent contractor with Defendant FR8 Solutions, Inc.
+
+             (“FR8”), and I have personal knowledge of the matters stated herein.
+
+                      3.     I have reviewed the document produced by Defendants FR8, Alen
+
+             Kajdic, and Azra Begovic (collectively, “Defendants”) in discovery, bearing Bates
+
+             Nos. D004001-D004018, which purports to be my signed Independent Contractor &
+
+             Non-Compete Agreement (“Agreement”).
+
+                      4.     I did not sign the Agreement produced by Defendants in discovery,
+
+             bearing Bates Nos. D004001-D004018.
+
+                      5.     A true and correct copy of the Agreement that I signed was filed by
+                                                        1
+ %#& ! 
+                            
+         Case 3:24-cv-00963-WWB-SJH          Document 145-1   Filed 04/13/26   Page 39 of 41 PageID
+                                                    1817
+
+
+
+             Defendants at ECF No. 16-6.
+
+
+             I declare under penalty of perjury under the laws of the United States of America
+
+             that the foregoing is true and correct.
+
+
+                                $ "                  $'$$
+             Executed on ______________________, at ______________________.
+
+
+                                                                ______________________
+                                                                Semir Kujukovic
+
+
+
+
+                                                       2
+!&$  '!" 
+                            
+         Case 3:24-cv-00963-WWB-SJH            Document 145-1     Filed 04/13/26   Page 40 of 41 PageID
+                                                      1818
+
+
+
+                                     UNITED STATES DISTRICT COURT
+                                      MIDDLE DISTRICT OF FLORIDA
+                                        JACKSONVILLE DIVISION
+
+             EDIN HUSIDIC D/B/A AMA EXPRESS,
+             INC., et al.,
+
+                             Plaintiffs,
+
+             v.                                                     No. 3:24-cv-00963-WGY-SJH
+
+             FR8 SOLUTIONS, INC., ALEN KAJDIC,
+             and AZRA BEGOVIC,
+
+                       Defendants.
+             ______________________________________/
+
+                                      DECLARATION OF VAHID MARIC
+
+                      1.     My name is Vahid Maric. I am over the age of eighteen and competent
+
+             to testify to the matters set forth in this Declaration.
+
+                      2.     I was an independent contractor with Defendant FR8 Solutions, Inc.
+
+             (“FR8”), and I have personal knowledge of the matters stated herein.
+
+                      3.     I have reviewed the document produced by Defendants FR8, Alen
+
+             Kajdic, and Azra Begovic (collectively, “Defendants”) in discovery, bearing Bates
+
+             Nos. D004022-D004089, which purports to be my signed Independent Contractor &
+
+             Non-Compete Agreement (“Agreement”).
+
+                      4.     I did not sign the Agreement produced by Defendants in discovery,
+
+             bearing Bates Nos. D004022- D004089.
+
+                      5.     A true and correct copy of the Agreement that I signed was filed by
+                                                         1
+!&$  '!" 
+                            
+         Case 3:24-cv-00963-WWB-SJH            Document 145-1   Filed 04/13/26   Page 41 of 41 PageID
+                                                      1819
+
+
+
+             Defendants at ECF No. 16-23.
+
+
+             I declare under penalty of perjury under the laws of the United States of America
+
+             that the foregoing is true and correct.
+
+                                                         $%#'%(%%
+             Executed on ______________________,
+                             %!#      at ______________________.
+
+
+                                                                  ______________________
+                                                                  Vahid Maric
+
+
+
+
+                                                        2
+Case 3:24-cv-00963-WWB-SJH   Document 145-2   Filed 04/13/26   Page 1 of 11 PageID
+                                    1820
+
+
+
+                COMPOSITE EXHIBIT B
+   Begovic and Kajdic’s Responses to Plaintiffs’ First
+        Requests for Production of Documents
+Case 3:24-cv-00963-WWB-SJH        Document 145-2      Filed 04/13/26    Page 2 of 11 PageID
+                                         1821
+
+
+
+                   IN THE UNITED STATES DISTRICT COURT
+                   FOR THE MIDDLE DISTRICT OF FLORIDA
+                          JACKSONVILLE DIVISION
+
+  EDIN HUSIDIC D/B/A AMA EXPRESS,
+  INC., et al.,
+
+               Plaintiffs,
+
+  v.                                                    No. 3:24-cv-00963-WWB-SJH
+
+  FR8 SOLUTIONS, INC., ALEN KAJDIC,
+  and AZRA BEGOVIC,
+
+             Defendants.
+  ______________________________________
+
+        DEFENDANT AZRA BEGOVIC’S RESPONSE TO PLAINTIFFS’ FIRST
+       REQUESTS FOR PRODUCTION OF DOCUMENTS TO AZRA BEGOVIC
+
+         Defendant, AZRA BEGOVIC, by counsel, answers the First Request for
+
+  Production of Documents served by the Plaintiffs on December 10, 2024, and states:
+
+         1.    All documents identified in Your Initial Disclosures.
+
+         RESPONSE: Please See Exhibit B to the Initial Disclosures produced in
+
+  connection with the responses below.
+
+         2.    All documents and things sufficient to show FR8’s current organizational
+
+  structure, including without limitation, documents sufficient to identify any parent,
+
+  subsidiary, or other related companies, and documents sufficient to identify and describe
+
+  FR8’s officers, directors, and managerial employees and their respective duties.
+
+         RESPONSE: D000001-D000002 to be provided by U.S. Mail.
+
+         3.    Any FR8 documents relating to the Plaintiffs that You have in Your
+Case 3:24-cv-00963-WWB-SJH         Document 145-2      Filed 04/13/26   Page 3 of 11 PageID
+                                          1822
+
+
+
+  individual possession, custody, or control.
+
+         RESPONSE: D000003-D011185 to be provided by U.S. Mail.
+
+         4.      All documents advertising Driver positions or compensation with
+
+  Defendants, including but not limited to print advertisements, web postings, social media
+
+  postings, and transcripts or radio advertisements.
+
+         RESPONSE: D000030-D002361 and D005172-D011185 to be provided by U.S.
+
+         Mail.
+
+         5.      Documents showing FR8’s policies, procedures, or practices relating to
+
+  driver compensation, including, but not limited to, PowerPoint slides, manuals, or other
+
+  documents.
+
+         RESPONSE: D002362-D002378 to be provided by U.S. Mail.
+
+         6.      All documents provided to dispatchers about their job duties and how to
+
+  communicate rates of loads to Drivers.
+
+         RESPONSE: Objection. Defendant objects to this request as it seeks
+
+         information that is vague, ambiguous, not narrow in time and scope,
+
+         burdensome, and irrelevant to the issues pending before this Court.
+
+         7.      Documents sufficient to show FR8’s annual gross revenue per year for 2017
+
+  to present.
+
+         RESPONSE: None in Defendant’s possession, custody, and/or control.
+
+         8.      Documents sufficient to identify any complaints filed with any state or
+
+  federal government or administrative agency against You or any of the Defendants.
+                                                2
+Case 3:24-cv-00963-WWB-SJH         Document 145-2      Filed 04/13/26   Page 4 of 11 PageID
+                                          1823
+
+
+
+        RESPONSE: None.
+
+        9.     All documents and communications reflecting internal complaints or
+
+  grievances made by Plaintiffs or other Drivers regarding their compensation, including
+
+  without limitation allegations that rate confirmation sheets were inaccurate.
+
+        RESPONSE: None.
+
+        10.    All communications with the U.S. Federal Motor Carrier Safety
+
+  Administration or U.S. Department of Transportation about You or any other
+
+  Defendant sending Drivers altered or inaccurate rate confirmation sheets.
+
+        RESPONSE: None.
+
+        11.    All communications regarding Driver compensation, including without
+
+  limitation: the calculation and payment of Plaintiffs’ compensation for each load
+
+  Plaintiffs transported at FR8’s direction; Drivers’ payment structure; and/or FR8’s
+
+  policies, procedures, or practices for paying Drivers.
+
+        RESPONSE: None.
+
+        12.    All documents and communications relating to the termination of
+
+  Plaintiffs’ agreements with FR8.
+
+        RESPONSE: D002379-D005171 to be provided by U.S. Mail.
+
+        13.    All communications relating to any form of retaliation against Drivers,
+
+  including threats of violence, termination, suspension, withholding pay, or other
+
+  repercussions.
+
+        RESPONSE: None.
+                                              3
+Case 3:24-cv-00963-WWB-SJH         Document 145-2      Filed 04/13/26    Page 5 of 11 PageID
+                                          1824
+
+
+
+         14.    All communications with Haris Durmic regarding the payment of
+
+  compensation to Plaintiffs and the sending of dispatch instructions to Plaintiffs.
+
+         RESPONSE: None.
+
+         15.    Copies of the communications referenced in paragraphs 73-76 and 102 of
+
+  the Amended Complaint.
+
+         RESPONSE: None.
+
+         16.    All communications with load dispatchers at FR8 regarding dispatch
+
+  instructions to Plaintiffs.
+
+         RESPONSE: None.
+
+         17.    All communications with any of the Plaintiffs.
+
+         RESPONSE: None.
+
+         18.    All documents that support Your contention that Plaintiffs and the putative
+
+  Class are not entitled to 88% of the total gross revenue for each load they transported at
+
+  FR8’s direction.
+
+         RESPONSE: Defendant objects to this request as it seeks information that is
+
+  vague, premature, calls for an expert opinion, ambiguous, not narrow in time and
+
+  scope, burdensome, and irrelevant to the issues pending before this Court. Without
+
+  waiving any objection, Defendant will produce the Independent Contractor
+
+  Agreements with Bates stamp rangesD002379-D005171 to be provided by U.S. Mail.
+
+         19.    All non-privileged documents that You sent to or received from any person
+
+  concerning this action.
+                                              4
+Case 3:24-cv-00963-WWB-SJH        Document 145-2     Filed 04/13/26   Page 6 of 11 PageID
+                                         1825
+
+
+
+        RESPONSE: None.
+
+                                                LIPPES MATHIAS LLP
+
+
+                                                /s/ Patricia M. Dodson
+                                                PATRICIA M. DODSON, ESQ.
+                                                Florida Bar No.: 972290
+                                                pdodson@lippes.com – Primary
+                                                bwillams@ lippes.com – Secondary
+                                                H. LEON HOLBROOK, III
+                                                Florida Bar No.: 319910
+                                                hholbrook@lippes.com – Primary
+                                                abarrett@lippes.com – Secondary
+                                                10151 Deerwood Park Blvd.
+                                                Building 300, Suite 300
+                                                Jacksonville, FL 32256
+                                                (904) 660-0020 (Telephone)
+                                                (904) 660-0029 (Facsimile)
+                                                Attorneys for Defendants
+
+                             CERTIFICATE OF SERVICE
+
+        The undersigned hereby certifies that on February 26, 2025, a true and correct
+
+  copy of the foregoing was served on all attorneys of record by electronic mail.
+
+
+
+                                                /s/ Patricia M. Dodson
+                                                PATRICIA M. DODSON
+
+
+
+
+                                            5
+Case 3:24-cv-00963-WWB-SJH        Document 145-2      Filed 04/13/26    Page 7 of 11 PageID
+                                         1826
+
+
+
+                   IN THE UNITED STATES DISTRICT COURT
+                   FOR THE MIDDLE DISTRICT OF FLORIDA
+                          JACKSONVILLE DIVISION
+
+  EDIN HUSIDIC D/B/A AMA EXPRESS,
+  INC., et al.,
+
+               Plaintiffs,
+
+  v.                                                    No. 3:24-cv-00963-WWB-SJH
+
+  FR8 SOLUTIONS, INC., ALEN KAJDIC,
+  and AZRA BEGOVIC,
+
+             Defendants.
+  ______________________________________
+
+        DEFENDANT ALEN KAJDIC’S RESPONSE TO PLAINTIFFS’ FIRST
+       REQUESTS FOR PRODUCTION OF DOCUMENTS TO ALEN KAJDIC
+
+        Defendant, ALEN KAJDIC, by counsel, answers the First Request for
+
+  Production of Documents served by the Plaintiffs on December 10, 2024, and states:
+
+        1.     All documents identified in Your Initial Disclosures.
+
+        RESPONSE: Please See Exhibit B to the Initial Disclosures produced in
+
+  connection with the responses below.
+
+        2.     All documents and things sufficient to show FR8’s current organizational
+
+  structure, including without limitation, documents sufficient to identify any parent,
+
+  subsidiary, or other related companies, and documents sufficient to identify and describe
+
+  FR8’s officers, directors, and managerial employees and their respective duties.
+
+        RESPONSE: D000001-D000002 to be provided by U.S. Mail.
+
+        3.     Any FR8 documents relating to the Plaintiffs that You have in Your
+Case 3:24-cv-00963-WWB-SJH         Document 145-2      Filed 04/13/26   Page 8 of 11 PageID
+                                          1827
+
+
+
+  individual possession, custody, or control.
+
+         RESPONSE: D000003-D011185 to be provided by U.S. Mail.
+
+         4.      All documents advertising Driver positions or compensation with
+
+  Defendants, including but not limited to print advertisements, web postings, social media
+
+  postings, and transcripts or radio advertisements.
+
+         RESPONSE: D000030-D002361 and D005172-D011185 to be provided by U.S.
+
+         Mail.
+
+         5.      Documents showing FR8’s policies, procedures, or practices relating to
+
+  driver compensation, including, but not limited to, PowerPoint slides, manuals, or other
+
+  documents.
+
+         RESPONSE: D002362-D002378 to be provided by U.S. Mail.
+
+         6.      All documents provided to dispatchers about their job duties and how to
+
+  communicate rates of loads to Drivers.
+
+         RESPONSE: Defendant objects to this request as it seeks information that is
+
+         vague, ambiguous, not narrow in time and scope, burdensome, and irrelevant
+
+         to the issues pending before this Court.
+
+         7.      Documents sufficient to show FR8’s annual gross revenue per year for 2017
+
+  to present.
+
+         RESPONSE: Defendant objects to this request as it seeks information that is
+
+         vague, ambiguous, confidential financial information, not narrow in time and
+
+         scope, burdensome, and irrelevant to the issues pending before this Court.
+                                                2
+Case 3:24-cv-00963-WWB-SJH         Document 145-2      Filed 04/13/26   Page 9 of 11 PageID
+                                          1828
+
+
+
+        8.     Documents sufficient to identify any complaints filed with any state or
+
+  federal government or administrative agency against You or any of the Defendants.
+
+        RESPONSE: None.
+
+        9.     All documents and communications reflecting internal complaints or
+
+  grievances made by Plaintiffs or other Drivers regarding their compensation, including
+
+  without limitation allegations that rate confirmation sheets were inaccurate.
+
+        RESPONSE: None.
+
+        10.    All communications with the U.S. Federal Motor Carrier Safety
+
+  Administration or U.S. Department of Transportation about You or any other
+
+  Defendant sending Drivers altered or inaccurate rate confirmation sheets.
+
+        RESPONSE: None.
+
+        11.    All communications regarding Driver compensation, including without
+
+  limitation: the calculation and payment of Plaintiffs’ compensation for each load
+
+  Plaintiffs transported at FR8’s direction; Drivers’ payment structure; and/or FR8’s
+
+  policies, procedures, or practices for paying Drivers.
+
+        RESPONSE: None.
+
+        12.    All documents and communications relating to the termination of
+
+  Plaintiffs’ agreements with FR8.
+
+        RESPONSE: D002379-D005171 to be provided by U.S. Mail.
+
+        13.    All communications relating to any form of retaliation against Drivers,
+
+  including threats of violence, termination, suspension, withholding pay, or other
+                                              3
+Case 3:24-cv-00963-WWB-SJH        Document 145-2       Filed 04/13/26    Page 10 of 11 PageID
+                                         1829
+
+
+
+  repercussions.
+
+         RESPONSE: None.
+
+         14.    All communications with Haris Durmic regarding the payment of
+
+  compensation to Plaintiffs and the sending of dispatch instructions to Plaintiffs.
+
+         RESPONSE: None.
+
+         15.    Copies of the communications referenced in paragraphs 73-76 and 102 of
+
+  the Amended Complaint.
+
+         RESPONSE: None.
+
+         16.    All communications with load dispatchers at FR8 regarding dispatch
+
+  instructions to Plaintiffs.
+
+         RESPONSE: None.
+
+         17.    All communications with any of the Plaintiffs.
+
+         RESPONSE: D00003-D00015 and recorded communications not bate-stamped
+
+         to be provided by U.S. Mail.
+
+         18.    All documents that support Your contention that Plaintiffs and the putative
+
+  Class are not entitled to 88% of the total gross revenue for each load they transported at
+
+  FR8’s direction.
+
+         RESPONSE: Defendant objects to this request as it seeks information that is
+
+         vague, premature, calls for an expert opinion, ambiguous, not narrow in time
+
+         and scope, burdensome, and irrelevant to the issues pending before this Court.
+
+         Without waiving any objection, Defendant will produce the Independent
+                                              4
+Case 3:24-cv-00963-WWB-SJH       Document 145-2     Filed 04/13/26    Page 11 of 11 PageID
+                                        1830
+
+
+
+        Contractor Agreements with Bates stamp rangesD002379-D005171 to be
+
+        provided by U.S. Mail.
+
+        19.    All non-privileged documents that You sent to or received from any person
+
+  concerning this action.
+
+        RESPONSE: None.
+
+                                                LIPPES MATHIAS LLP
+
+
+                                                /s/ Patricia M. Dodson
+                                                PATRICIA M. DODSON, ESQ.
+                                                Florida Bar No.: 972290
+                                                pdodson@lippes.com – Primary
+                                                bwillams@ lippes.com – Secondary
+                                                H. LEON HOLBROOK, III, ESQ.
+                                                Florida Bar No.: 319910
+                                                hholbrook@lippes.com – Primary
+                                                abarrett@lippes.com – Secondary
+                                                10151 Deerwood Park Blvd.
+                                                Building 300, Suite 300
+                                                Jacksonville, FL 32256
+                                                (904) 660-0020 (Telephone)
+                                                (904) 660-0029 (Facsimile)
+                                                Attorneys for Defendants
+
+                             CERTIFICATE OF SERVICE
+
+        The undersigned hereby certifies that on February 26, 2025, a true and correct
+
+  copy of the foregoing was served on all attorneys of record by electronic mail.
+
+
+
+                                                /s/ Patricia M. Dodson
+                                                PATRICIA M. DODSON
+
+
+
+                                            5
+Case 3:24-cv-00963-WWB-SJH   Document 145-3   Filed 04/13/26   Page 1 of 10 PageID
+                                    1831
+
+
+
+                             EXHIBIT C
+     FR8’s Response to Plaintiffs’ First Requests for
+           Production of Documents to FR8
+Case 3:24-cv-00963-WWB-SJH        Document 145-3      Filed 04/13/26    Page 2 of 10 PageID
+                                         1832
+
+
+
+                   IN THE UNITED STATES DISTRICT COURT
+                   FOR THE MIDDLE DISTRICT OF FLORIDA
+                          JACKSONVILLE DIVISION
+
+  EDIN HUSIDIC D/B/A AMA EXPRESS,
+  INC., et al.,
+
+               Plaintiffs,
+
+  v.                                                    No. 3:24-cv-00963-WWB-SJH
+
+  FR8 SOLUTIONS, INC., ALEN KAJDIC,
+  and AZRA BEGOVIC,
+
+             Defendants.
+  ______________________________________
+
+  DEFENDANT FR8 SOLUTIONS, INC.S’ RESPONSE TO PLAINTIFFS’ FIRST
+   REQUESTS FOR PRODUCTION OF DOCUMENTS TO FR8 SOLUTIONS,
+                             INC.
+
+        Defendant, FR8 SOLUTIONS, INC., by counsel, answers the First Request for
+
+  Production of Documents served by the Plaintiffs on March 13, 2025, and states:
+
+        1.     All documents identified in Your Initial Disclosures.
+
+        RESPONSE: Please See Exhibit B to the Initial Disclosures produced in
+
+  connection with the responses below.
+
+        2.     All documents and things sufficient to show FR8’s current organizational
+
+  structure, including without limitation, documents sufficient to identify any parent,
+
+  subsidiary, or other related companies, and documents sufficient to identify and describe
+
+  FR8’s officers, directors, and managerial employees and their respective duties.
+
+        RESPONSE: D000001-D000002
+Case 3:24-cv-00963-WWB-SJH         Document 145-3       Filed 04/13/26    Page 3 of 10 PageID
+                                          1833
+
+
+
+         3.     All agreements and contracts between Plaintiffs and FR8, including
+
+  without limitation, lease purchase agreements, trailer rental agreements, and
+
+  “Independent Contractor & Non-Compete Agreements,” an example of which is
+
+  attached as Exhibit 1 to the Amended Complaint.
+
+         RESPONSE: Defendant objects to this request as it seeks information that is
+
+  vague, ambiguous, confidential financial information, not narrow in time and scope,
+
+  burdensome, and irrelevant to the issues pending before this Court. Without waiving
+
+  any objection, Defendant will produce the Independent Contractor Agreements with
+
+  Bates stamp rangesD002379-D005171.
+
+         4.     All rate confirmation sheets and/or communications sent from third-party
+
+  brokers (including without limitation, Ascent On-Demand, Ascent Global Logistics,
+
+  Active -on Demand, Landstar Express America, inc. and Panther II Transportation,
+
+  Inc.) to FR8 showing the rate for each load that Plaintiffs transported at FR8’s directions,
+
+  examples of which are attached as Exhibits 3, 5, 7, 9, 11, 13, 15, 17, 19, 202, 22, 24, 26,
+
+  28, 30, 31, 33, 35, 37, 39, 41 and 43 to the Amended Complaint.
+
+         RESPONSE: Defendant objects to this request as it seeks information that is
+
+  vague, ambiguous, overly burdensome and costly requiring manual extraction for
+
+  thousands of loads for a time period that is over five (5) years, and irrelevant to the
+
+  issues pending before this Court.
+
+
+
+
+                                               2
+Case 3:24-cv-00963-WWB-SJH          Document 145-3       Filed 04/13/26    Page 4 of 10 PageID
+                                           1834
+
+
+
+         5.     All payroll records maintained by FR8 concerning Plaintiffs, including
+
+  without limitation, all pay sheets sent from FR8 to Plaintiffs.
+
+         RESPONSE: D00030 through D002361.
+
+         6.     All Statements of Earnings and Deductions relating to the loads Plaintiffs
+
+  transported at FR8’s directions, examples of which are attached as Exhibits 12, 14, 16,
+
+  18, 21, 23, 25, 27, 29, 32, 34, 36 and 38 to the Amended Complaint.
+
+         RESPONSE: Defendant objects to this request as it seeks information that is
+
+  vague, ambiguous, confidential financial information, not narrow in time and scope,
+
+  burdensome, and irrelevant to the issues pending before this Court.
+
+         7.     All dispatch instructions sent from FR8 to Plaintiffs, examples of which are
+
+  attached as Exhibits 2, 4, 6, 8, 10, 40 and 42 to the Amended Complaint.
+
+         RESPONSE: Defendant objects to this request as it seeks information that is
+
+  vague, ambiguous, overly burdensome and costly, and irrelevant to the issues pending
+
+  before this Court.
+
+         8.     All bills of lading for the loads Plaintiffs transported at FR8’s direction.
+
+         RESPONSE: Defendant objects to this request as it seeks information that is
+
+  vague, ambiguous, overly burdensome and costly as it requires manual extraction of
+
+  documents for over 10,000 loads, and irrelevant to the issues pending before this
+
+  Court.
+
+         9.     All logbooks concerning the loads Plaintiffs transported at FR8’s direction.
+
+         RESPONSE: None.
+
+                                               3
+Case 3:24-cv-00963-WWB-SJH         Document 145-3       Filed 04/13/26   Page 5 of 10 PageID
+                                          1835
+
+
+
+         10.    All documents provided to Plaintiffs at the time of the settlement for each
+
+  load that Plaintiffs transported at FR8’s direction, including without limitation
+
+  settlement sheets relating to each load.
+
+         RESPONSE: D00030 through D002361.
+
+         11.    All documents relating to the loads Plaintiffs transported at FR8’s
+
+  direction.
+
+         RESPONSE: Defendant objects to this request as it seeks information that is
+
+  vague, ambiguous, overly burdensome and costly, seeks confidential financial
+
+  information, not narrow in time and scope, and irrelevant to the issues pending before
+
+  this Court.
+
+         12.    All App Communications between FR8 and Plaintiffs for each load
+
+  Plaintiffs transported at FR8’s directions.
+
+         RESPONSE: Defendant objects to this request as it seeks information that is
+
+  vague, ambiguous, overly burdensome and costly, and irrelevant to the issues pending
+
+  before this Court.
+
+         13.    Documents sufficient to show the identity of all Drivers who transported
+
+  loads at FR8’s direction during the Relevant Time Period.
+
+         RESPONSE: Defendant objects to this request as it seeks information that is
+
+  vague, ambiguous, overly burdensome, is nothing more than a fishing expedition, and
+
+  irrelevant to the issues pending before this Court.
+
+
+
+
+                                                4
+Case 3:24-cv-00963-WWB-SJH         Document 145-3      Filed 04/13/26    Page 6 of 10 PageID
+                                          1836
+
+
+
+         14.    Documents sufficient to show for each Driver: (a) the amount that the
+
+  Defendants paid the Driver for each load the Driver transported, (b) all amounts that a
+
+  customer or broker paid Defendants for the load; and (c) the identity of the motor carrier
+
+  responsible for the load.
+
+         RESPONSE: Defendant objects to this request as it seeks information that is
+
+  vague, ambiguous, overly burdensome, confusing as it is unclear what information
+
+  Plaintiffs are seeking to obtain, and irrelevant to the issues pending before this Court.
+
+  Subject to and without waiving the aforementioned objections, D00030 through
+
+  D002361.
+
+         15.    All documents advertising Driver positions or compensation with
+
+  Defendants, including but not limited to print advertisements, web postings, social media
+
+  postings, and transcripts of radio advertisements.
+
+         RESPONSE: D000030-D002361 and D005172-D011185
+
+         16.    Documents showing FR8’s policies, procedures, or practices relating to
+
+  driver compensation, including, but not limited to, PowerPoint slides, manuals, or other
+
+  documents.
+
+         RESPONSE: D002362-D002378
+
+         17.    All documents provided to dispatchers about their job duties and how to
+
+  communicate rates of loads to Drivers.
+
+         RESPONSE: Defendant objects to this request as it seeks information that is
+
+  vague, ambiguous, not narrow in time and scope, burdensome, confidential
+
+                                              5
+Case 3:24-cv-00963-WWB-SJH         Document 145-3      Filed 04/13/26   Page 7 of 10 PageID
+                                          1837
+
+
+
+  proprietary information, and irrelevant to the issues pending before this Court.
+
+         18.    Documents sufficient to show Fr8’s annual gross revenue per year for 2017
+
+  to present.
+
+         RESPONSE: Defendant objects to this request as it seeks information that is
+
+  vague, ambiguous, confidential financial information, not narrow in time and scope,
+
+  burdensome, and irrelevant to the issues pending before this Court.
+
+         19.    Documents sufficient to identify any complaints filed with any state or
+
+  federal government or administrative agency against any of the Defendants.
+
+         RESPONSE: None.
+
+         20.    All documents and communications reflecting internal complaints or
+
+         grievances made by Plaintiffs or other Drivers regarding their compensation,
+
+  including without limitation allegations that rate confirmation sheets were inaccurate.
+
+         RESPONSE: None.
+
+         21.    All communications with the U.S. Federal Motor Carrier Safety
+
+  Administration or U.S. Department of Transportation about Defendants sending Driers
+
+  altered or inaccurate rate confirmations sheets.
+
+         RESPONSE: None.
+
+         22.    All communications regarding Driver compensation, including without
+
+  limitation: the calculation and payment of Plaintiffs’ compensation for each load
+
+  Plaintiffs transported at FR8’s direction; Drivers’ payment structure; and/or FR8’s
+
+  policies, procedures, or practices for paying Drivers.
+
+                                              6
+Case 3:24-cv-00963-WWB-SJH          Document 145-3     Filed 04/13/26   Page 8 of 10 PageID
+                                           1838
+
+
+
+         RESPONSE: None.
+
+         23.    All documents and communications relating to the termination of
+
+  Plaintiffs’ agreements with FR8.
+
+         RESPONSE: D002379-D005171
+
+         24.    All communications relating to any form of retaliation against Drivers,
+
+  including threats of violence, termination, suspension, withholding pay, or other
+
+  repercussions.
+
+         RESPONSE: None.
+
+         25.    All communications between one or more of the Individual Defendants
+
+  and Haris Durmic regarding the payment of compensation to Plaintiffs and the sending
+
+  of dispatch instructions to Plaintiffs.
+
+         RESPONSE: None.
+
+         26.    Copies of the communications referenced in paragraphs 73-76 and 102 of
+
+  the Complaint.
+
+         RESPONSE: None.
+
+         27.    All communications between one or more of the Defendants and load
+
+  dispatchers at FR8 regarding dispatch instructions to Plaintiffs.
+
+         RESPONSE: None.
+
+         28.    All communications between Defendants and any of the Plaintiffs.
+
+         RESPONSE: D00003-D00015 and recorded communications not bate-
+
+  stamped.
+
+                                              7
+Case 3:24-cv-00963-WWB-SJH         Document 145-3      Filed 04/13/26    Page 9 of 10 PageID
+                                          1839
+
+
+
+        29.    All documents that support Your contention that Plaintiffs and the putative
+
+  Class are not entitled to 88% of the total gross revenue for each load they transported at
+
+  FR8’s direction.
+
+        RESPONSE: Defendant objects to this request as it seeks information that is
+
+  vague, premature, calls for an expert opinion, ambiguous, not narrow in time and
+
+  scope, burdensome, and irrelevant to the issues pending before this Court. Without
+
+  waiving any objection, Defendant will produce the Independent Contractor
+
+  Agreements with Bates stamp rangesD002379-D005171.
+
+        30.    All non-privileged documents that Defendants sent to or received from any
+
+  person concerning this action.
+
+        RESPONSE: None.
+
+  Dated: April 16, 2025
+
+                                                  LIPPES MATHIAS LLP
+
+
+                                                  /s/ Brittany P. Borck
+                                                  BRITTANY P. BORCK, ESQ.
+                                                  Florida Bar No.: 114047
+                                                  bborck@lippes.com – Primary
+                                                  wrojas@lippes.com – Secondary
+                                                  4420 Beacon Circle
+                                                  West Palm Beach, FL 33407
+                                                  (561) 842-3000 (Telephone)
+                                                  (561) 842-3626 (Facsimile)
+                                                  Attorneys for Defendants
+
+
+
+
+                                              8
+Case 3:24-cv-00963-WWB-SJH       Document 145-3      Filed 04/13/26   Page 10 of 10 PageID
+                                        1840
+
+
+
+                             CERTIFICATE OF SERVICE
+
+        The undersigned hereby certifies that on April 16, 2025, a true and correct copy
+
+  of the foregoing was served on all attorneys of record by electronic mail.
+
+
+
+                                                 /s/ Brittany P. Borck
+                                                 BRITTANY P. BORCK, ESQ.
+
+
+
+
+                                             9
+
