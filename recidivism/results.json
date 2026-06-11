@@ -1,0 +1,275 @@
+{
+  "data": {
+    "n_raw": 7214,
+    "n_clean": 6172,
+    "base_rate": 0.4551198963058976,
+    "missing_per_column": {
+      "age": 0,
+      "priors_count": 0,
+      "juv_fel_count": 0,
+      "juv_misd_count": 0,
+      "juv_other_count": 0,
+      "juv_total": 0,
+      "priors_per_year": 0,
+      "charge_felony": 0,
+      "sex_male": 0,
+      "age_x_priors": 0,
+      "decile_score": 0,
+      "race": 0,
+      "sex": 0,
+      "two_year_recid": 0
+    }
+  },
+  "split": {
+    "n_train": 3702,
+    "n_val": 1235,
+    "n_test": 1235,
+    "base_rates": {
+      "train": 0.4551593733117234,
+      "val": 0.45506072874493925,
+      "test": 0.45506072874493925
+    }
+  },
+  "baselines_val": {
+    "B1_base_rate": {
+      "auc": 0.5,
+      "brier": 0.2479804716298146
+    },
+    "B2_age_priors_logit": {
+      "auc": 0.7242402690454913,
+      "brier": 0.2109181032418014
+    },
+    "B3_compas_decile": {
+      "auc_raw_decile": 0.7158220217541893,
+      "auc": 0.7107298281979557,
+      "brier": 0.21497072076729992
+    }
+  },
+  "iterations": [
+    {
+      "name": "B2: logistic(age, priors_count)",
+      "val": {
+        "auc": 0.7242402690454913,
+        "brier": 0.2109181032418014
+      },
+      "cv": {
+        "cv_brier_mean": 0.21302262097044836,
+        "cv_brier_se": 0.0017000021004168352,
+        "cv_auc_mean": 0.7249811418912028,
+        "cv_auc_se": 0.005613711918603951
+      },
+      "complexity": 1,
+      "kept": true
+    },
+    {
+      "name": "Add juv_fel_count, juv_misd_count, juv_other_count",
+      "val": {
+        "auc": 0.7253731895744872,
+        "brier": 0.21049085134672121
+      },
+      "cv": {
+        "cv_brier_mean": 0.2130677051856067,
+        "cv_brier_se": 0.0018466019245678125,
+        "cv_auc_mean": 0.7237392259817097,
+        "cv_auc_se": 0.005607097749927821
+      },
+      "complexity": 2,
+      "kept": false
+    },
+    {
+      "name": "Add priors_per_year",
+      "val": {
+        "auc": 0.7308434639607007,
+        "brier": 0.20812932408016233
+      },
+      "cv": {
+        "cv_brier_mean": 0.2100637368290538,
+        "cv_brier_se": 0.002293547420663007,
+        "cv_auc_mean": 0.7281195890240887,
+        "cv_auc_se": 0.005216182838310068
+      },
+      "complexity": 2,
+      "kept": true
+    },
+    {
+      "name": "Replace linear age with cubic spline (5 knots)",
+      "val": {
+        "auc": 0.7282365569791607,
+        "brier": 0.20884241669016637
+      },
+      "cv": {
+        "cv_brier_mean": 0.20863606547934593,
+        "cv_brier_se": 0.0034318540801064256,
+        "cv_auc_mean": 0.7299761695617913,
+        "cv_auc_se": 0.009026477849934877
+      },
+      "complexity": 3,
+      "kept": false
+    },
+    {
+      "name": "Add charge_felony",
+      "val": {
+        "auc": 0.7344246561579585,
+        "brier": 0.20669044753117385
+      },
+      "cv": {
+        "cv_brier_mean": 0.20962203835051657,
+        "cv_brier_se": 0.0021330893943904057,
+        "cv_auc_mean": 0.7280797841438208,
+        "cv_auc_se": 0.004567462075368556
+      },
+      "complexity": 3,
+      "kept": false
+    },
+    {
+      "name": "LightGBM, small grid tuned by 5-fold CV (neg brier) -> best {'learning_rate': 0.03, 'min_child_samples': 50, 'n_estimators': 100, 'num_leaves': 7}",
+      "val": {
+        "auc": 0.7300595411209172,
+        "brier": 0.20757113056910828
+      },
+      "cv": {
+        "cv_brier_mean": 0.2080679290046481,
+        "cv_brier_se": 0.0034106686569677466,
+        "cv_auc_mean": 0.7320058393613549,
+        "cv_auc_se": 0.009422639998934196
+      },
+      "complexity": 5,
+      "kept": false
+    },
+    {
+      "name": "CalibratedClassifierCV(champion, isotonic, cv=5)",
+      "val": {
+        "auc": 0.7310311824147466,
+        "brier": 0.20750999186470306
+      },
+      "cv": {
+        "cv_brier_mean": 0.2099049712557513,
+        "cv_brier_se": 0.002298553663693095,
+        "cv_auc_mean": 0.7280103096826975,
+        "cv_auc_se": 0.005385306614469757
+      },
+      "complexity": 3,
+      "kept": false
+    }
+  ],
+  "winner": {
+    "name": "Add priors_per_year",
+    "features": [
+      "age",
+      "priors_count",
+      "priors_per_year"
+    ],
+    "val": {
+      "auc": 0.7308434639607007,
+      "brier": 0.20812932408016233
+    }
+  },
+  "test": {
+    "final": {
+      "auc": 0.7380772342461915,
+      "brier": 0.20656254920213854
+    },
+    "B2": {
+      "auc": 0.7392432037987869,
+      "brier": 0.20927040925546794
+    },
+    "B3_compas": {
+      "auc": 0.7130749869125865,
+      "brier": 0.21230134566837652
+    },
+    "thresholds": [
+      {
+        "top_pct": 10,
+        "n_flagged": 124,
+        "prob_cutoff": 0.7534504603655446,
+        "fp_rate_among_flagged": 0.18548387096774188,
+        "share_of_recidivists_caught": 0.1797153024911032
+      },
+      {
+        "top_pct": 20,
+        "n_flagged": 247,
+        "prob_cutoff": 0.6076907038115691,
+        "fp_rate_among_flagged": 0.21862348178137647,
+        "share_of_recidivists_caught": 0.34341637010676157
+      },
+      {
+        "top_pct": 30,
+        "n_flagged": 370,
+        "prob_cutoff": 0.5008659542897189,
+        "fp_rate_among_flagged": 0.25135135135135134,
+        "share_of_recidivists_caught": 0.4928825622775801
+      }
+    ]
+  },
+  "subgroup_audit_top20": [
+    {
+      "group": "race=African-American",
+      "n": 641,
+      "base_rate": 0.5257410296411856,
+      "auc": 0.7596390363891925,
+      "fpr": 0.125,
+      "fnr": 0.5519287833827893,
+      "flag_rate": 0.2948517940717629
+    },
+    {
+      "group": "race=Caucasian",
+      "n": 427,
+      "base_rate": 0.3770491803278688,
+      "auc": 0.6853196656236866,
+      "fpr": 0.03759398496240601,
+      "fnr": 0.8136645962732919,
+      "flag_rate": 0.0936768149882904
+    },
+    {
+      "group": "race=Hispanic",
+      "n": 94,
+      "base_rate": 0.4787234042553192,
+      "auc": 0.6698412698412698,
+      "fpr": 0.08163265306122448,
+      "fnr": 0.7333333333333333,
+      "flag_rate": 0.1702127659574468
+    },
+    {
+      "group": "race=Other",
+      "n": 65,
+      "base_rate": 0.27692307692307694,
+      "auc": 0.6897163120567374,
+      "fpr": 0.0425531914893617,
+      "fnr": 0.8333333333333334,
+      "flag_rate": 0.07692307692307693
+    },
+    {
+      "group": "sex=Male",
+      "n": 1002,
+      "base_rate": 0.47604790419161674,
+      "auc": 0.7464769891184986,
+      "fpr": 0.09142857142857143,
+      "fnr": 0.6268343815513627,
+      "flag_rate": 0.22554890219560877
+    },
+    {
+      "group": "sex=Female",
+      "n": 233,
+      "base_rate": 0.3648068669527897,
+      "auc": 0.6651033386327504,
+      "fpr": 0.04054054054054054,
+      "fnr": 0.788235294117647,
+      "flag_rate": 0.10300429184549356
+    }
+  ],
+  "interpretability": {
+    "type": "logistic_coefficients_standardized",
+    "values": {
+      "num__age": -0.3574114173541704,
+      "num__priors_count": 0.3921222519924101,
+      "num__priors_per_year": 0.5634461990862448
+    },
+    "age_priors_share": {
+      "b2_test_auc": 0.7392432037987869,
+      "final_test_auc": 0.7380772342461915,
+      "auc_gain_over_b2": -0.0011659695525954028,
+      "b2_test_brier": 0.20927040925546794,
+      "final_test_brier": 0.20656254920213854
+    }
+  }
+}
