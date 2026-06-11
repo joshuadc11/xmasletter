@@ -1,0 +1,64 @@
+{
+  "reference_l2_kitchen_sink": {
+    "auc": 0.7488485720177884,
+    "brier": 0.2016162869150952
+  },
+  "candidates": [
+    {
+      "iter": 12,
+      "change": "LightGBM all-16, wide grid -> {'colsample_bytree': 1.0, 'learning_rate': 0.02, 'min_child_samples': 60, 'n_estimators': 150, 'num_leaves': 7}",
+      "val": {
+        "auc": 0.7452766335471386,
+        "brier": 0.20355745508630121
+      },
+      "cv": {
+        "cv_brier_mean": 0.20706170112496944,
+        "cv_brier_se": 0.0036334003656894585,
+        "cv_auc_mean": 0.7351873464805597,
+        "cv_auc_se": 0.010255687879794381
+      }
+    },
+    {
+      "iter": 13,
+      "change": "Isotonic-calibrate L2 kitchen sink",
+      "val": {
+        "auc": 0.7487348833766054,
+        "brier": 0.2016857939279193
+      },
+      "cv": {
+        "cv_brier_mean": 0.20694990429954419,
+        "cv_brier_se": 0.004026149091520955,
+        "cv_auc_mean": 0.7366106443353025,
+        "cv_auc_se": 0.010954285608971933
+      }
+    },
+    {
+      "iter": 14,
+      "change": "Soft-vote: L2 kitchen sink + tuned GBM",
+      "val": {
+        "auc": 0.7500092537266079,
+        "brier": 0.20160633849560824
+      },
+      "cv": {
+        "cv_brier_mean": 0.2054970468791087,
+        "cv_brier_se": 0.0038591871520958177,
+        "cv_auc_mean": 0.7395571349846917,
+        "cv_auc_se": 0.010726256350768182
+      }
+    },
+    {
+      "iter": 15,
+      "change": "Add decile_score to L2 kitchen sink",
+      "val": {
+        "auc": 0.755693685785747,
+        "brier": 0.19924421863111627
+      },
+      "cv": {
+        "cv_brier_mean": 0.20324240685081496,
+        "cv_brier_se": 0.004385499307136983,
+        "cv_auc_mean": 0.7446003221862414,
+        "cv_auc_se": 0.011339567713476922
+      }
+    }
+  ]
+}

@@ -11,6 +11,8 @@ The winning model is a **three-variable logistic regression: age, prior count, a
 
 **The headline finding is a null result**: six hypothesis-driven iterations — juvenile record, prior-offense rate, age splines, charge degree, tuned gradient boosting, isotonic calibration — produced exactly one keepable improvement, worth ~0.003 Brier on validation and essentially zero AUC on test. Everything this dataset can predict about two-year rearrest is captured by age and prior record; no feature engineering or model-class upgrade moves the needle beyond noise. This replicates Dressel & Farid (2018) and Angelino et al.: simple, interpretable rules match both complex ML and the commercial tool.
 
+A second campaign (Rounds 2–2b below, iterations 7–15) pushed past the plateau with nine more hypotheses — jail length-of-stay, charge-type categories, kitchen-sink regularized models, a wider GBM search, calibration, ensembling, and the COMPAS score itself as a feature. It produced real-looking validation gains (best val Brier 0.2016 vs 0.2081) that **evaporated entirely on test** (AUC 0.734 / Brier 0.207 — identical to the three-variable model). The null result survived a determined attempt to break it.
+
 ---
 
 ## Phase 1 — Data and baselines
@@ -89,6 +91,36 @@ Subgroup metrics at the top-20% threshold (test set). FPR/FNR are the standard c
 
 **Interpretability** (standardized logistic coefficients): priors_per_year **+0.563**, priors_count **+0.392**, age **−0.357**. The entire model is "more priors, accumulated faster, at a younger age → higher risk." Share of signal from age and priors alone: **~100% of AUC** (B2 matches the final model's 0.739 within noise) and ~99% of Brier skill relative to the base-rate floor.
 
+## Rounds 2–2b — pushing past the plateau (iterations 7–15)
+
+At the user's request the loop was continued with the parsimony rule dropped (select on best validation Brier) and a wider hypothesis space, drawing features the first round never used: pretrial jail length-of-stay, charge-type categories parsed from the free-text charge descriptions, log-priors, joint "stacked" small features, and full kitchen-sink models. Full log in `iteration_log.md`; code in `round2.py` / `round2b.py`.
+
+**Round 2** (iterations 7–11, train/validation only):
+
+- **Iteration 7 — kept**: log jail length-of-stay improved validation AUC beyond 1 SE (0.7308 → 0.7411). Pretrial detention length proxies charge seriousness and the booking judge's own risk read.
+- Iterations 8–11 each nudged validation Brier down (charge categories 0.2041, stacked small features 0.2038, log-priors 0.2036, and a C-tuned **L2 logistic on all 16 features at 0.2016**) but every step fell inside the 1-SE noise gate, so the streak rule fired.
+- Selecting on raw best validation Brier anyway, the kitchen-sink L2 logistic (val Brier 0.2016, AUC 0.7489) was evaluated on the test set — **the project's second and final test-set touch** (all tuning stayed on train/validation):
+
+| Model | Val Brier | Test AUC | Test Brier |
+|---|---|---|---|
+| Round 1: logistic(age, priors, priors/yr) | 0.2081 | 0.7381 | 0.2066 |
+| Round 2: L2 kitchen sink (16 features) | 0.2016 | 0.7343 | 0.2069 |
+
+The 0.0065 validation Brier advantage **vanished on test** — the bigger model is, if anything, marginally worse. The validation set (n=1,235) had been used to adjudicate 11 decisions by this point; its apparent gains were partly fit to that particular sample. This is the textbook reason the noise gate existed.
+
+**Round 2b** (iterations 12–15, validation only — test never touched): the moves the streak rule had cut off, judged against the kitchen-sink reference (val Brier 0.2016, CV SE 0.0042):
+
+| # | Move | Val Brier | Val AUC | Verdict |
+|---|---|---|---|---|
+| 12 | LightGBM, all 16 features, wide CV grid | 0.2036 | 0.7453 | worse |
+| 13 | Isotonic-calibrated kitchen sink | 0.2017 | 0.7487 | tie |
+| 14 | Soft-vote ensemble (logistic + GBM) | 0.2016 | 0.7500 | tie |
+| 15 | + COMPAS decile score as a feature | **0.1992** | **0.7557** | within noise (ΔBrier −0.0024 < 1 SE) |
+
+The most interesting probe is #15: the commercial COMPAS decile — which encodes a 137-item questionnaire (substance abuse, employment, associates, attitudes) unavailable in our features — adds the largest single validation gain of the entire project, hinting at modest incremental signal beyond criminal history. But it stays inside the noise gate, round 2 just demonstrated that validation gains of this size do not transfer, and a model that *requires* COMPAS as an input cannot serve as a COMPAS replacement. Not adopted; no third test touch taken.
+
+**Conclusion of the extended search**: across 15 iterations, 17 candidate features, four model classes, hyperparameter tuning, recalibration, and ensembling, held-out test performance never moved from **AUC ≈ 0.74, Brier ≈ 0.207**. The recommended deployment model remains the round-1 three-variable logistic regression (age, priors, priors-per-year): nothing more complex earned its keep, and on test nothing beat it. The plateau is not an artifact of a timid search — it is the information ceiling of administrative criminal-history data in this dataset.
+
 ## Limitations
 
 1. **The target is rearrest, not reoffending.** Arrests reflect policing intensity and geography as well as behavior; differential enforcement contaminates both the label and, through `priors_count`, the features. The model predicts contact with the criminal-justice system.
@@ -99,8 +131,9 @@ Subgroup metrics at the top-20% threshold (test set). FPR/FNR are the standard c
 
 ## Deliverables
 
-- `pipeline.py` — end-to-end reproducible pipeline (download → clean → split → baselines → iteration loop → single test evaluation → audit)
-- `iteration_log.md` — complete loop history with hypotheses, metrics, and decisions
+- `pipeline.py` — end-to-end reproducible round-1 pipeline (download → clean → split → baselines → iteration loop → test evaluation → audit)
+- `round2.py`, `round2b.py` — extended search (iterations 7–15)
+- `iteration_log.md` — complete 15-iteration history with hypotheses, metrics, and decisions
 - `final_report.md` — this document
-- `final_model.joblib` — fitted final model; `results.json` — all metrics
-- `plots/` — calibration plots (B2/B3 validation; final and B2 test) and threshold analysis
+- `final_model.joblib` — recommended model (3-variable logistic); `final_model_round2.joblib` — round-2 kitchen-sink model; `results.json`, `results_round2.json`, `results_round2b.json` — all metrics
+- `plots/` — calibration plots (B2/B3 validation; round-1 final, B2, and round-2 model on test) and threshold analysis

@@ -29,3 +29,14 @@ Decision rule: keep if validation Brier improves by more than 1 CV standard erro
 | 11 | With 16 candidate features, L2 shrinkage can exploit many weak signals jointly while controlling variance — the 'kitchen sink, regularized' hypothesis. | L2 logistic on all 16 features, C tuned by CV -> C=0.3 | 0.2016 | 0.7488 | 0.2063±0.0042 | REVERTED — no gain beyond noise (ΔBrier=-0.0037 vs SE=0.0042, ΔAUC=+0.0077 vs SE=0.0113) -> reverted |
 
 **Stopped: 4 consecutive non-improvements.** Selected (best val Brier): **L2 logistic on all 16 features, C tuned by CV -> C=0.3** (val Brier=0.2016, AUC=0.7488).
+
+## Round 2b (remaining moves; validation only — test NOT touched)
+
+Reference: L2 kitchen sink val Brier=0.2016, AUC=0.7488 (CV SE=0.0042).
+
+| # | Hypothesis | Change | Val Brier | Val AUC | CV Brier (±SE) | vs reference |
+|---|------------|--------|-----------|---------|----------------|--------------|
+| 12 | Boosting with 16 features has interactions to exploit that the 3-feature round-1 GBM could not. | LightGBM all-16, wide grid -> {'colsample_bytree': 1.0, 'learning_rate': 0.02, 'min_child_samples': 60, 'n_estimators': 150, 'num_leaves': 7} | 0.2036 | 0.7453 | 0.2071±0.0036 | within noise (ΔBrier=+0.0019) |
+| 13 | Isotonic recalibration can fix any residual miscalibration in the regularized logistic. | Isotonic-calibrate L2 kitchen sink | 0.2017 | 0.7487 | 0.2069±0.0040 | within noise (ΔBrier=+0.0001) |
+| 14 | Logistic and GBM make partially uncorrelated errors; averaging probabilities reduces variance. | Soft-vote: L2 kitchen sink + tuned GBM | 0.2016 | 0.7500 | 0.2055±0.0039 | within noise (ΔBrier=-0.0000) |
+| 15 | Does the commercial COMPAS decile carry signal not already in the 16 features? (Literature: little.) | Add decile_score to L2 kitchen sink | 0.1992 | 0.7557 | 0.2032±0.0044 | within noise (ΔBrier=-0.0024) |
