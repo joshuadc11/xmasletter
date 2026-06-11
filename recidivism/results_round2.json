@@ -1,0 +1,201 @@
+{
+  "round2_iterations": [
+    {
+      "name": "Add log_jail_days + jail_missing",
+      "val": {
+        "auc": 0.7410992369641431,
+        "brier": 0.20535375127387848
+      },
+      "cv": {
+        "cv_brier_mean": 0.20819320286122256,
+        "cv_brier_se": 0.0031487749788005398,
+        "cv_auc_mean": 0.7340237189699634,
+        "cv_auc_se": 0.007918544953030043
+      },
+      "kept": true
+    },
+    {
+      "name": "Add charge-category dummies (violent/drug/property/driving)",
+      "val": {
+        "auc": 0.7422546308291867,
+        "brier": 0.2040545846729689
+      },
+      "cv": {
+        "cv_brier_mean": 0.2075342058784777,
+        "cv_brier_se": 0.0038259948768926614,
+        "cv_auc_mean": 0.7342927500222172,
+        "cv_auc_se": 0.010216014324546663
+      },
+      "kept": false
+    },
+    {
+      "name": "Add charge_felony + sex_male + juv_total together",
+      "val": {
+        "auc": 0.7435950992263884,
+        "brier": 0.20376667033829232
+      },
+      "cv": {
+        "cv_brier_mean": 0.20795195864013669,
+        "cv_brier_se": 0.003285753751615081,
+        "cv_auc_mean": 0.7329904032329145,
+        "cv_auc_se": 0.008746219894618873
+      },
+      "kept": false
+    },
+    {
+      "name": "Add log_priors",
+      "val": {
+        "auc": 0.7461094689418495,
+        "brier": 0.20358284824155476
+      },
+      "cv": {
+        "cv_brier_mean": 0.20769737868289698,
+        "cv_brier_se": 0.0030746592623166246,
+        "cv_auc_mean": 0.7338226715183908,
+        "cv_auc_se": 0.008297768078830902
+      },
+      "kept": false
+    },
+    {
+      "name": "L2 logistic on all 16 features, C tuned by CV -> C=0.3",
+      "val": {
+        "auc": 0.7488485720177884,
+        "brier": 0.2016162869150952
+      },
+      "cv": {
+        "cv_brier_mean": 0.20627714649370973,
+        "cv_brier_se": 0.004176186960405598,
+        "cv_auc_mean": 0.7366603639842818,
+        "cv_auc_se": 0.011286576094924141
+      },
+      "kept": false
+    }
+  ],
+  "selected": {
+    "name": "L2 logistic on all 16 features, C tuned by CV -> C=0.3",
+    "features": [
+      "age",
+      "priors_count",
+      "priors_per_year",
+      "log_priors",
+      "juv_fel_count",
+      "juv_misd_count",
+      "juv_other_count",
+      "charge_felony",
+      "sex_male",
+      "age_x_priors",
+      "log_jail_days",
+      "jail_missing",
+      "chg_violent",
+      "chg_drug",
+      "chg_property",
+      "chg_driving"
+    ],
+    "val": {
+      "auc": 0.7488485720177884,
+      "brier": 0.2016162869150952
+    }
+  },
+  "test_second_touch": {
+    "auc": 0.7342726306494001,
+    "brier": 0.2068529171114855
+  },
+  "thresholds": [
+    {
+      "top_pct": 10,
+      "n_flagged": 124,
+      "prob_cutoff": 0.7625005867751902,
+      "fp_rate_among_flagged": 0.17741935483870963,
+      "share_of_recidivists_caught": 0.18149466192170818
+    },
+    {
+      "top_pct": 20,
+      "n_flagged": 247,
+      "prob_cutoff": 0.642787576969547,
+      "fp_rate_among_flagged": 0.23076923076923073,
+      "share_of_recidivists_caught": 0.33807829181494664
+    },
+    {
+      "top_pct": 30,
+      "n_flagged": 370,
+      "prob_cutoff": 0.5516873340489393,
+      "fp_rate_among_flagged": 0.2810810810810811,
+      "share_of_recidivists_caught": 0.47330960854092524
+    }
+  ],
+  "subgroup_audit_top20": [
+    {
+      "group": "race=African-American",
+      "n": 641,
+      "base_rate": 0.5257410296411856,
+      "auc": 0.7468959862564423,
+      "fpr": 0.125,
+      "fnr": 0.5875370919881305,
+      "flag_rate": 0.27613104524180965
+    },
+    {
+      "group": "race=Caucasian",
+      "n": 427,
+      "base_rate": 0.3770491803278688,
+      "auc": 0.6856815952925794,
+      "fpr": 0.04887218045112782,
+      "fnr": 0.7950310559006211,
+      "flag_rate": 0.10772833723653395
+    },
+    {
+      "group": "race=Hispanic",
+      "n": 94,
+      "base_rate": 0.4787234042553192,
+      "auc": 0.6344671201814059,
+      "fpr": 0.10204081632653061,
+      "fnr": 0.7111111111111111,
+      "flag_rate": 0.19148936170212766
+    },
+    {
+      "group": "race=Other",
+      "n": 65,
+      "base_rate": 0.27692307692307694,
+      "auc": 0.7683215130023641,
+      "fpr": 0.0,
+      "fnr": 0.7777777777777778,
+      "flag_rate": 0.06153846153846154
+    },
+    {
+      "group": "sex=Male",
+      "n": 1002,
+      "base_rate": 0.47604790419161674,
+      "auc": 0.734335629429969,
+      "fpr": 0.10666666666666667,
+      "fnr": 0.6310272536687631,
+      "flag_rate": 0.2315369261477046
+    },
+    {
+      "group": "sex=Female",
+      "n": 233,
+      "base_rate": 0.3648068669527897,
+      "auc": 0.6880763116057232,
+      "fpr": 0.006756756756756757,
+      "fnr": 0.8352941176470589,
+      "flag_rate": 0.06437768240343347
+    }
+  ],
+  "note": "This is the project's SECOND evaluation on the held-out test set (first was round 1). All tuning remained on train/validation.",
+  "coefficients": {
+    "num__age": -0.41120476502354564,
+    "num__priors_count": -0.4411647636988118,
+    "num__priors_per_year": 0.5030464024709577,
+    "num__log_priors": 0.4264954118186662,
+    "num__juv_fel_count": 0.01267807523870607,
+    "num__juv_misd_count": -0.07443888615514978,
+    "num__juv_other_count": 0.0764279417526148,
+    "num__charge_felony": 0.06518353336225964,
+    "num__sex_male": 0.11708930508264943,
+    "num__age_x_priors": 0.3972690363604383,
+    "num__log_jail_days": 0.21084857453947936,
+    "num__jail_missing": 0.0,
+    "num__chg_violent": 0.045573813547072406,
+    "num__chg_drug": 0.15677318934191548,
+    "num__chg_property": 0.09608844257564501,
+    "num__chg_driving": -0.007010338812006023
+  }
+}

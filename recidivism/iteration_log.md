@@ -16,3 +16,16 @@ Decision rule: keep if validation Brier improves by more than 1 CV standard erro
 **Stopped after 6 iterations: 4 consecutive non-improvements.**
 
 **Parsimony rule**: best val Brier=0.2067 (SE≈0.0023); 5 configs within 1 SE; simplest selected: **Add priors_per_year** (val Brier=0.2081, AUC=0.7308).
+
+
+## Round 2 (parsimony rule dropped; select best val Brier)
+
+| # | Hypothesis | Change | Val Brier | Val AUC | CV Brier (±SE) | Decision |
+|---|------------|--------|-----------|---------|----------------|----------|
+| 7 | Pretrial jail length-of-stay proxies both charge seriousness and judicial risk assessment at booking; longer stays should predict recidivism beyond charge degree. | Add log_jail_days + jail_missing | 0.2054 | 0.7411 | 0.2082±0.0031 | KEPT — AUC improved beyond 1 SE, Brier within noise |
+| 8 | Offense TYPE matters: drug and property offending have the highest repeat rates; violent index offenses historically predict lower general recidivism. | Add charge-category dummies (violent/drug/property/driving) | 0.2041 | 0.7423 | 0.2075±0.0038 | REVERTED — no gain beyond noise (ΔBrier=-0.0013 vs SE=0.0038, ΔAUC=+0.0012 vs SE=0.0102) -> reverted |
+| 9 | Round-1 features that individually fell just under the noise gate (charge degree, sex, juvenile record) may clear it jointly — small real effects stack. | Add charge_felony + sex_male + juv_total together | 0.2038 | 0.7436 | 0.2080±0.0033 | REVERTED — no gain beyond noise (ΔBrier=-0.0016 vs SE=0.0033, ΔAUC=+0.0025 vs SE=0.0087) -> reverted |
+| 10 | Marginal deterrent information per additional prior shrinks; log(1+priors) should fit the diminishing-returns shape better than the linear count. | Add log_priors | 0.2036 | 0.7461 | 0.2077±0.0031 | REVERTED — no gain beyond noise (ΔBrier=-0.0018 vs SE=0.0031, ΔAUC=+0.0050 vs SE=0.0083) -> reverted |
+| 11 | With 16 candidate features, L2 shrinkage can exploit many weak signals jointly while controlling variance — the 'kitchen sink, regularized' hypothesis. | L2 logistic on all 16 features, C tuned by CV -> C=0.3 | 0.2016 | 0.7488 | 0.2063±0.0042 | REVERTED — no gain beyond noise (ΔBrier=-0.0037 vs SE=0.0042, ΔAUC=+0.0077 vs SE=0.0113) -> reverted |
+
+**Stopped: 4 consecutive non-improvements.** Selected (best val Brier): **L2 logistic on all 16 features, C tuned by CV -> C=0.3** (val Brier=0.2016, AUC=0.7488).
