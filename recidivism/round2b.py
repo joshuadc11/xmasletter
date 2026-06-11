@@ -57,11 +57,13 @@ def main():
           f"auc={ref_vm['auc']:.4f}")
 
     # 12: wide-grid GBM on all 16 features.
+    # Single-threaded LGBM inside the 4-way parallel grid: avoids 16 threads
+    # thrashing 4 cores.
     grid = {"num_leaves": [7, 15, 31], "learning_rate": [0.02, 0.05, 0.1],
-            "n_estimators": [200, 500], "min_child_samples": [30, 60],
+            "n_estimators": [150, 400], "min_child_samples": [30, 60],
             "colsample_bytree": [0.7, 1.0]}
-    gs = GridSearchCV(LGBMClassifier(random_state=SEED, verbose=-1), grid,
-                      scoring="neg_brier_score", n_jobs=-1,
+    gs = GridSearchCV(LGBMClassifier(random_state=SEED, verbose=-1, n_jobs=1),
+                      grid, scoring="neg_brier_score", n_jobs=4,
                       cv=StratifiedKFold(5, shuffle=True, random_state=SEED))
     gs.fit(train[ALL_FEATS], y_tr)
     bp = gs.best_params_
